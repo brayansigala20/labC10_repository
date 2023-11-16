@@ -1,0 +1,1 @@
+method_ofPay = `${web_element_MethodOfPay.split(' ')[1]} ${web_element_MethodOfPay.split(' ')[2]} ${web_element_MethodOfPay.split(' ')[3]}`

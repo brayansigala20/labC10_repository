@@ -1,0 +1,159 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 12:39:36 AM
+  ==========================================
+  
+
+[2023-10-17T05:39:41.497Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:39:41.498Z] : [success]: Bot started
+
+[2023-10-17T05:39:41.499Z] : [info]: Robot start
+
+[2023-10-17T05:41:26.702Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:41:26.749Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:41:26.986Z] : [success]: Bot started
+
+[2023-10-17T05:41:26.987Z] : [info]: Robot start
+
+[2023-10-17T05:50:10.792Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:50:10.852Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:50:10.962Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:50:10.962Z] : [success]: Bot started
+
+[2023-10-17T05:50:10.963Z] : [info]: Robot start
+
+[2023-10-17T05:52:19.483Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:52:19.734Z] : [success]: Bot started
+
+[2023-10-17T05:52:19.735Z] : [info]: Robot start
+
+[2023-10-17T05:54:34.024Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:54:34.249Z] : [success]: Bot started
+
+[2023-10-17T05:54:34.249Z] : [info]: Robot start
+
+[2023-10-17T05:56:44.605Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:56:44.801Z] : [success]: Bot started
+
+[2023-10-17T05:56:44.802Z] : [info]: Robot start
+
+[2023-10-17T05:58:49.752Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:58:50.066Z] : [success]: Bot started
+
+[2023-10-17T05:58:50.066Z] : [info]: Robot start
+
+[2023-10-17T06:00:40.535Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:00:40.583Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:00:40.715Z] : [success]: Bot started
+
+[2023-10-17T06:00:40.715Z] : [info]: Robot start
+
+[2023-10-17T06:01:41.654Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:01:41.835Z] : [success]: Bot started
+
+[2023-10-17T06:01:41.836Z] : [info]: Robot start
+
+[2023-10-17T06:02:32.768Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:02:32.990Z] : [success]: Bot started
+
+[2023-10-17T06:02:32.990Z] : [info]: Robot start
+
+[2023-10-17T06:04:39.742Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:04:39.935Z] : [success]: Bot started
+
+[2023-10-17T06:04:39.936Z] : [info]: Robot start
+
+[2023-10-17T06:05:35.861Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:05:36.052Z] : [success]: Bot started
+
+[2023-10-17T06:05:36.053Z] : [info]: Robot start
+
+[2023-10-17T06:06:21.328Z] : [success]: Bot finished successfully, total execution time: 45s 272ms
+
+[2023-10-17T06:06:21.329Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:08:06.824Z] : [success]: Bot started
+
+[2023-10-17T06:08:06.825Z] : [info]: Robot start
+
+[2023-10-17T06:09:01.485Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:09:01.677Z] : [success]: Bot started
+
+[2023-10-17T06:09:01.679Z] : [info]: Robot start
+
+[2023-10-17T06:10:29.375Z] : [info]: Internet connection // error
+
+[2023-10-17T06:10:29.461Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:10:29.531Z] : [success]: Bot started
+
+[2023-10-17T06:10:29.531Z] : [info]: Robot start
+
+[2023-10-17T06:12:39.311Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T06:12:39.388Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:12:39.594Z] : [success]: Bot started
+
+[2023-10-17T06:12:39.594Z] : [info]: Robot start
+
+[2023-10-17T06:14:26.233Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:14:26.568Z] : [success]: Bot started
+
+[2023-10-17T06:14:26.569Z] : [info]: Robot start
+
+[2023-10-17T06:28:45.764Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:28:46.030Z] : [success]: Bot started
+
+[2023-10-17T06:28:46.031Z] : [info]: Robot start
+
+[2023-10-17T06:30:03.654Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:30:03.887Z] : [success]: Bot started
+
+[2023-10-17T06:30:03.887Z] : [info]: Robot start
+
+[2023-10-17T06:42:20.342Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:42:20.390Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:42:20.637Z] : [success]: Bot started
+
+[2023-10-17T06:42:20.638Z] : [info]: Robot start
+
+[2023-10-17T06:44:43.077Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:44:44.351Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T06:44:44.352Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T06:44:44.353Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T06:44:44.354Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T06:44:44.365Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T06:44:44.366Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T06:44:44.371Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,1068 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/13/2023, 4:28:28 PM
+  ==========================================
+  
+
+[2023-10-13T21:28:34.614Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:28:34.614Z] : [success]: Bot started
+
+[2023-10-13T21:28:34.615Z] : [info]: Robot start
+
+[2023-10-13T21:29:30.373Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-13T21:29:30.806Z] : [info]: Total execution time: 55s 758ms
+
+[2023-10-13T21:29:30.808Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:29:58.207Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:30:19.059Z] : [success]: Bot started
+
+[2023-10-13T21:30:19.060Z] : [info]: Robot start
+
+[2023-10-13T21:30:51.048Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-13T21:30:51.565Z] : [info]: Total execution time: 31s 987ms
+
+[2023-10-13T21:30:51.567Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:32:03.521Z] : [warn]: There is a small amount of free memory (RAM) left, 94.25% of RAM is being used (7485 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T21:36:11.685Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:36:11.905Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:36:11.906Z] : [success]: Bot started
+
+[2023-10-13T21:36:11.907Z] : [info]: Robot start
+
+[2023-10-13T21:36:44.047Z] : [success]: Bot finished successfully, total execution time: 32s 136ms
+
+[2023-10-13T21:36:44.049Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:37:25.230Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:37:25.423Z] : [success]: Bot started
+
+[2023-10-13T21:37:25.424Z] : [info]: Robot start
+
+[2023-10-13T21:38:09.072Z] : [error]: Canceled by user
+
+[2023-10-13T21:38:09.469Z] : [info]: Total execution time: 43s 646ms
+
+[2023-10-13T21:38:09.470Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:40:26.600Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:41:34.679Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:41:34.878Z] : [success]: Bot started
+
+[2023-10-13T21:41:34.879Z] : [info]: Robot start
+
+[2023-10-13T21:42:03.490Z] : [warn]: There is a small amount of free memory (RAM) left, 92.24% of RAM is being used (7326 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T21:42:22.864Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-13T21:42:23.368Z] : [info]: Total execution time: 47s 984ms
+
+[2023-10-13T21:42:23.369Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:42:42.761Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:42:47.784Z] : [success]: Bot started
+
+[2023-10-13T21:42:47.785Z] : [info]: Robot start
+
+[2023-10-13T21:43:40.723Z] : [success]: Bot finished successfully, total execution time: 52s 934ms
+
+[2023-10-13T21:43:40.724Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:46:03.507Z] : [warn]: There is a small amount of free memory (RAM) left, 91.45% of RAM is being used (7263 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T21:47:51.963Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:47:52.269Z] : [success]: Bot started
+
+[2023-10-13T21:47:52.270Z] : [info]: Robot start
+
+[2023-10-13T21:48:23.466Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-13T21:48:23.932Z] : [info]: Total execution time: 31s 196ms
+
+[2023-10-13T21:48:23.934Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:51:40.756Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:51:40.990Z] : [success]: Bot started
+
+[2023-10-13T21:51:40.991Z] : [info]: Robot start
+
+[2023-10-13T21:52:20.663Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-13T21:52:21.060Z] : [info]: Total execution time: 39s 671ms
+
+[2023-10-13T21:52:21.061Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:52:53.296Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:52:53.314Z] : [error]: Activity parameters required: Console log
+
+[2023-10-13T21:52:53.684Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:53:02.731Z] : [success]: Robot saved successfully
+
+[2023-10-13T21:53:02.943Z] : [success]: Bot started
+
+[2023-10-13T21:53:02.943Z] : [info]: Robot start
+
+[2023-10-13T21:53:44.703Z] : [info]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-13T21:53:44.733Z] : [success]: Bot finished successfully, total execution time: 41s 788ms
+
+[2023-10-13T21:53:44.734Z] : [info]: ---------------------------------------------
+
+[2023-10-13T21:55:03.492Z] : [warn]: There is a small amount of free memory (RAM) left, 90.14% of RAM is being used (7159 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T22:05:31.495Z] : [success]: Robot saved successfully
+
+[2023-10-13T22:05:31.747Z] : [info]: ---------------------------------------------
+
+[2023-10-13T22:05:31.748Z] : [success]: Bot started
+
+[2023-10-13T22:05:31.748Z] : [info]: Robot start
+
+[2023-10-13T22:06:06.468Z] : [info]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-13T22:06:07.018Z] : [success]: Bot finished successfully, total execution time: 35s 265ms
+
+[2023-10-13T22:06:07.020Z] : [info]: ---------------------------------------------
+
+[2023-10-13T22:06:39.051Z] : [success]: Robot saved successfully
+
+[2023-10-13T22:06:39.290Z] : [success]: Bot started
+
+[2023-10-13T22:06:39.290Z] : [info]: Robot start
+
+[2023-10-13T22:07:17.556Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-13T22:07:17.738Z] : [info]: Total execution time: 38s 266ms
+
+[2023-10-13T22:07:17.739Z] : [info]: ---------------------------------------------
+
+[2023-10-13T22:07:22.894Z] : [success]: Bot started
+
+[2023-10-13T22:07:22.895Z] : [info]: Robot start
+
+[2023-10-13T22:08:07.695Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-13T22:08:08.142Z] : [info]: Total execution time: 44s 799ms
+
+[2023-10-13T22:08:08.142Z] : [info]: ---------------------------------------------
+
+[2023-10-13T22:08:35.450Z] : [success]: Robot saved successfully
+
+[2023-10-13T22:08:35.649Z] : [success]: Bot started
+
+[2023-10-13T22:08:35.650Z] : [info]: Robot start
+
+[2023-10-13T22:09:15.986Z] : [success]: Bot finished successfully, total execution time: 40s 331ms
+
+[2023-10-13T22:09:15.988Z] : [info]: ---------------------------------------------
+
+[2023-10-13T22:11:19.539Z] : [success]: Robot saved successfully
+
+[2023-10-13T22:11:19.759Z] : [success]: Bot started
+
+[2023-10-13T22:11:19.760Z] : [info]: Robot start
+
+[2023-10-13T22:12:09.311Z] : [error]: Canceled by user
+
+[2023-10-13T22:12:09.756Z] : [info]: Total execution time: 49s 550ms
+
+[2023-10-13T22:12:09.757Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:11:49.313Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:11:49.556Z] : [success]: Bot started
+
+[2023-10-14T02:11:49.556Z] : [info]: Robot start
+
+[2023-10-14T02:12:28.064Z] : [success]: Bot finished successfully, total execution time: 38s 504ms
+
+[2023-10-14T02:12:28.065Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:12:44.560Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:12:48.758Z] : [success]: Bot started
+
+[2023-10-14T02:12:48.759Z] : [info]: Robot start
+
+[2023-10-14T02:13:22.357Z] : [success]: Bot finished successfully, total execution time: 33s 595ms
+
+[2023-10-14T02:13:22.359Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:16:33.503Z] : [warn]: There is a small amount of free memory (RAM) left, 90.92% of RAM is being used (7221 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T02:16:54.806Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:16:55.006Z] : [success]: Bot started
+
+[2023-10-14T02:16:55.007Z] : [info]: Robot start
+
+[2023-10-14T02:17:27.208Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T02:17:27.562Z] : [info]: Total execution time: 32s 201ms
+
+[2023-10-14T02:17:27.562Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:18:32.692Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:18:32.707Z] : [error]: Activity parameters required: Console log
+
+[2023-10-14T02:18:33.041Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:18:39.891Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:18:40.124Z] : [success]: Bot started
+
+[2023-10-14T02:18:40.124Z] : [info]: Robot start
+
+[2023-10-14T02:19:11.971Z] : [info]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again. : CAN_NOT_FIND_HTML_ELEMENT
+
+[2023-10-14T02:19:12.222Z] : [success]: Bot finished successfully, total execution time: 32s 94ms
+
+[2023-10-14T02:19:12.223Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:25:48.731Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:25:48.933Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:25:48.933Z] : [success]: Bot started
+
+[2023-10-14T02:25:48.934Z] : [info]: Robot start
+
+[2023-10-14T02:26:11.905Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T02:26:12.310Z] : [info]: Total execution time: 22s 971ms
+
+[2023-10-14T02:26:12.311Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:28:22.744Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:28:23.037Z] : [success]: Bot started
+
+[2023-10-14T02:28:23.038Z] : [info]: Robot start
+
+[2023-10-14T02:28:33.487Z] : [warn]: There is a small amount of free memory (RAM) left, 90.88% of RAM is being used (7218 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T02:28:59.420Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-14T02:28:59.763Z] : [info]: Total execution time: 36s 382ms
+
+[2023-10-14T02:28:59.764Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:29:13.394Z] : [success]: Bot started
+
+[2023-10-14T02:29:13.395Z] : [info]: Robot start
+
+[2023-10-14T02:29:33.478Z] : [warn]: There is a small amount of free memory (RAM) left, 90.92% of RAM is being used (7221 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T02:29:48.973Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-14T02:29:49.359Z] : [info]: Total execution time: 35s 578ms
+
+[2023-10-14T02:29:49.360Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:30:35.936Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:30:43.255Z] : [success]: Bot started
+
+[2023-10-14T02:30:43.256Z] : [info]: Robot start
+
+[2023-10-14T02:31:03.502Z] : [warn]: There is a small amount of free memory (RAM) left, 91.41% of RAM is being used (7260 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T02:31:17.473Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-14T02:31:17.638Z] : [info]: Total execution time: 34s 217ms
+
+[2023-10-14T02:31:17.639Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:31:23.644Z] : [success]: Bot started
+
+[2023-10-14T02:31:23.645Z] : [info]: Robot start
+
+[2023-10-14T02:32:02.032Z] : [success]: Bot finished successfully, total execution time: 38s 385ms
+
+[2023-10-14T02:32:02.033Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:35:08.260Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:35:13.230Z] : [success]: Bot started
+
+[2023-10-14T02:35:13.231Z] : [info]: Robot start
+
+[2023-10-14T02:36:38.040Z] : [error]: Script Stopped.
+
+[2023-10-14T02:36:38.116Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:36:46.789Z] : [success]: Bot started
+
+[2023-10-14T02:36:46.791Z] : [info]: Robot start
+
+[2023-10-14T02:37:54.968Z] : [error]: Script Stopped.
+
+[2023-10-14T02:37:55.067Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:38:09.191Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:38:09.375Z] : [success]: Bot started
+
+[2023-10-14T02:38:09.376Z] : [info]: Robot start
+
+[2023-10-14T02:39:16.596Z] : [error]: Script Stopped.
+
+[2023-10-14T02:39:16.806Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:41:11.405Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:41:15.643Z] : [success]: Bot started
+
+[2023-10-14T02:41:15.644Z] : [info]: Robot start
+
+[2023-10-14T02:42:27.153Z] : [error]: Script Stopped.
+
+[2023-10-14T02:42:27.235Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:43:30.395Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:43:30.602Z] : [success]: Bot started
+
+[2023-10-14T02:43:30.603Z] : [info]: Robot start
+
+[2023-10-14T02:44:07.931Z] : [success]: Bot finished successfully, total execution time: 37s 325ms
+
+[2023-10-14T02:44:07.932Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:44:31.861Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:44:35.859Z] : [success]: Bot started
+
+[2023-10-14T02:44:35.860Z] : [info]: Robot start
+
+[2023-10-14T02:46:42.512Z] : [error]: Script Stopped.
+
+[2023-10-14T02:46:42.575Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:48:12.164Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:48:12.377Z] : [success]: Bot started
+
+[2023-10-14T02:48:12.378Z] : [info]: Robot start
+
+[2023-10-14T02:48:35.408Z] : [success]: Bot finished successfully, total execution time: 23s 28ms
+
+[2023-10-14T02:48:35.409Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:48:44.785Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:48:48.579Z] : [success]: Bot started
+
+[2023-10-14T02:48:48.579Z] : [info]: Robot start
+
+[2023-10-14T02:49:14.088Z] : [success]: Bot finished successfully, total execution time: 25s 505ms
+
+[2023-10-14T02:49:14.089Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:50:02.083Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:50:09.558Z] : [success]: Bot started
+
+[2023-10-14T02:50:09.559Z] : [info]: Robot start
+
+[2023-10-14T02:51:38.851Z] : [error]: Script Stopped.
+
+[2023-10-14T02:51:38.929Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:55:07.701Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:55:07.926Z] : [success]: Bot started
+
+[2023-10-14T02:55:07.926Z] : [info]: Robot start
+
+[2023-10-14T02:55:32.103Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T02:55:32.582Z] : [info]: Total execution time: 24s 176ms
+
+[2023-10-14T02:55:32.583Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:56:50.818Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:56:54.886Z] : [success]: Bot started
+
+[2023-10-14T02:56:54.887Z] : [info]: Robot start
+
+[2023-10-14T02:57:31.550Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-14T02:57:32.193Z] : [info]: Total execution time: 36s 663ms
+
+[2023-10-14T02:57:32.194Z] : [info]: ---------------------------------------------
+
+[2023-10-14T02:58:48.017Z] : [success]: Robot saved successfully
+
+[2023-10-14T02:58:48.284Z] : [success]: Bot started
+
+[2023-10-14T02:58:48.285Z] : [info]: Robot start
+
+[2023-10-14T02:59:25.446Z] : [success]: Bot finished successfully, total execution time: 37s 158ms
+
+[2023-10-14T02:59:25.447Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:00:17.358Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:00:21.194Z] : [success]: Bot started
+
+[2023-10-14T03:00:21.194Z] : [info]: Robot start
+
+[2023-10-14T03:00:53.790Z] : [error]: Canceled by user
+
+[2023-10-14T03:00:54.267Z] : [info]: Total execution time: 32s 595ms
+
+[2023-10-14T03:00:54.268Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:12:17.232Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:12:17.470Z] : [success]: Bot started
+
+[2023-10-14T03:12:17.470Z] : [info]: Robot start
+
+[2023-10-14T03:12:49.854Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T03:12:50.267Z] : [info]: Total execution time: 32s 383ms
+
+[2023-10-14T03:12:50.267Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:13:46.654Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:13:46.864Z] : [success]: Bot started
+
+[2023-10-14T03:13:46.865Z] : [info]: Robot start
+
+[2023-10-14T03:14:09.938Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T03:14:10.341Z] : [info]: Total execution time: 23s 73ms
+
+[2023-10-14T03:14:10.342Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:14:27.367Z] : [success]: Bot started
+
+[2023-10-14T03:14:27.368Z] : [info]: Robot start
+
+[2023-10-14T03:16:03.652Z] : [error]: Script Stopped.
+
+[2023-10-14T03:16:03.796Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:16:41.112Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:16:51.580Z] : [success]: Bot started
+
+[2023-10-14T03:16:51.580Z] : [info]: Robot start
+
+[2023-10-14T03:17:26.175Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T03:17:26.611Z] : [info]: Total execution time: 34s 595ms
+
+[2023-10-14T03:17:26.611Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:17:40.107Z] : [success]: Bot started
+
+[2023-10-14T03:17:40.107Z] : [info]: Robot start
+
+[2023-10-14T03:18:50.248Z] : [error]: Script Stopped.
+
+[2023-10-14T03:18:50.401Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:20:05.480Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:20:09.638Z] : [success]: Bot started
+
+[2023-10-14T03:20:09.638Z] : [info]: Robot start
+
+[2023-10-14T03:20:52.412Z] : [error]: Canceled by user
+
+[2023-10-14T03:20:52.843Z] : [info]: Total execution time: 42s 774ms
+
+[2023-10-14T03:20:52.843Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:21:26.512Z] : [success]: Bot started
+
+[2023-10-14T03:21:26.513Z] : [info]: Robot start
+
+[2023-10-14T03:22:01.124Z] : [success]: Bot finished successfully, total execution time: 34s 609ms
+
+[2023-10-14T03:22:01.125Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:23:15.080Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:23:19.344Z] : [success]: Bot started
+
+[2023-10-14T03:23:19.345Z] : [info]: Robot start
+
+[2023-10-14T03:23:53.982Z] : [success]: Bot finished successfully, total execution time: 34s 635ms
+
+[2023-10-14T03:23:53.984Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:42:01.495Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:42:06.426Z] : [success]: Bot started
+
+[2023-10-14T03:42:06.427Z] : [info]: Robot start
+
+[2023-10-14T03:42:42.691Z] : [success]: Bot finished successfully, total execution time: 36s 261ms
+
+[2023-10-14T03:42:42.692Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:43:13.504Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:43:17.584Z] : [success]: Bot started
+
+[2023-10-14T03:43:17.584Z] : [info]: Robot start
+
+[2023-10-14T03:43:38.588Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T03:43:39.103Z] : [info]: Total execution time: 21s 3ms
+
+[2023-10-14T03:43:39.103Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:43:59.258Z] : [success]: Bot started
+
+[2023-10-14T03:43:59.258Z] : [info]: Robot start
+
+[2023-10-14T03:44:34.844Z] : [success]: Bot finished successfully, total execution time: 35s 582ms
+
+[2023-10-14T03:44:34.845Z] : [info]: ---------------------------------------------
+
+[2023-10-14T03:46:30.249Z] : [success]: Robot saved successfully
+
+[2023-10-14T03:46:30.485Z] : [success]: Bot started
+
+[2023-10-14T03:46:30.485Z] : [info]: Robot start
+
+[2023-10-14T03:47:01.774Z] : [success]: Bot finished successfully, total execution time: 31s 287ms
+
+[2023-10-14T03:47:01.775Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:26:03.492Z] : [warn]: There is a small amount of free memory (RAM) left, 90.2% of RAM is being used (7164 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:26:09.505Z] : [success]: Robot saved successfully
+
+[2023-10-14T15:26:09.756Z] : [success]: Bot started
+
+[2023-10-14T15:26:09.757Z] : [info]: Robot start
+
+[2023-10-14T15:26:22.798Z] : [success]: Bot finished successfully, total execution time: 13s 38ms
+
+[2023-10-14T15:26:22.799Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:26:44.302Z] : [success]: Bot started
+
+[2023-10-14T15:26:44.303Z] : [info]: Robot start
+
+[2023-10-14T15:26:54.574Z] : [success]: Bot finished successfully, total execution time: 10s 267ms
+
+[2023-10-14T15:26:54.576Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:27:12.353Z] : [success]: Robot saved successfully
+
+[2023-10-14T15:27:16.813Z] : [success]: Bot started
+
+[2023-10-14T15:27:16.813Z] : [info]: Robot start
+
+[2023-10-14T15:27:27.068Z] : [success]: Bot finished successfully, total execution time: 10s 249ms
+
+[2023-10-14T15:27:27.070Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:28:33.497Z] : [warn]: There is a small amount of free memory (RAM) left, 91.58% of RAM is being used (7273 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:29:14.127Z] : [success]: Bot started
+
+[2023-10-14T15:29:14.128Z] : [info]: Robot start
+
+[2023-10-14T15:30:02.096Z] : [success]: Bot finished successfully, total execution time: 47s 964ms
+
+[2023-10-14T15:30:02.098Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:31:33.508Z] : [warn]: There is a small amount of free memory (RAM) left, 90.76% of RAM is being used (7208 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:33:48.906Z] : [success]: Bot started
+
+[2023-10-14T15:33:48.908Z] : [info]: Robot start
+
+[2023-10-14T15:34:08.868Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T15:34:09.436Z] : [info]: Total execution time: 19s 960ms
+
+[2023-10-14T15:34:09.437Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:34:24.858Z] : [success]: Bot started
+
+[2023-10-14T15:34:24.858Z] : [info]: Robot start
+
+[2023-10-14T15:34:43.882Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T15:34:44.369Z] : [info]: Total execution time: 19s 23ms
+
+[2023-10-14T15:34:44.370Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:34:47.659Z] : [success]: Robot saved successfully
+
+[2023-10-14T15:35:06.763Z] : [success]: Bot started
+
+[2023-10-14T15:35:06.764Z] : [info]: Robot start
+
+[2023-10-14T15:35:28.295Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T15:35:28.726Z] : [info]: Total execution time: 21s 531ms
+
+[2023-10-14T15:35:28.726Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:35:49.933Z] : [success]: Bot started
+
+[2023-10-14T15:35:49.934Z] : [info]: Robot start
+
+[2023-10-14T15:36:10.308Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T15:36:10.732Z] : [info]: Total execution time: 20s 374ms
+
+[2023-10-14T15:36:10.733Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:36:27.908Z] : [success]: Bot started
+
+[2023-10-14T15:36:27.909Z] : [info]: Robot start
+
+[2023-10-14T15:37:07.662Z] : [success]: Bot finished successfully, total execution time: 39s 751ms
+
+[2023-10-14T15:37:07.663Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:40:09.044Z] : [success]: Bot started
+
+[2023-10-14T15:40:09.045Z] : [info]: Robot start
+
+[2023-10-14T15:40:33.490Z] : [warn]: There is a small amount of free memory (RAM) left, 91.06% of RAM is being used (7232 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:40:37.503Z] : [success]: Bot finished successfully, total execution time: 28s 455ms
+
+[2023-10-14T15:40:37.504Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:41:20.784Z] : [success]: Robot saved successfully
+
+[2023-10-14T15:41:38.790Z] : [success]: Bot started
+
+[2023-10-14T15:41:38.791Z] : [info]: Robot start
+
+[2023-10-14T15:41:54.833Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T15:41:55.431Z] : [info]: Total execution time: 16s 41ms
+
+[2023-10-14T15:41:55.433Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:42:13.787Z] : [success]: Bot started
+
+[2023-10-14T15:42:13.788Z] : [info]: Robot start
+
+[2023-10-14T15:42:30.720Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T15:42:31.268Z] : [info]: Total execution time: 16s 931ms
+
+[2023-10-14T15:42:31.269Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:42:38.054Z] : [success]: Bot started
+
+[2023-10-14T15:42:38.055Z] : [info]: Robot start
+
+[2023-10-14T15:43:03.459Z] : [warn]: There is a small amount of free memory (RAM) left, 90.2% of RAM is being used (7164 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:43:42.325Z] : [error]: Script Stopped.
+
+[2023-10-14T15:43:42.444Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:43:54.074Z] : [success]: Robot saved successfully
+
+[2023-10-14T15:43:54.311Z] : [success]: Bot started
+
+[2023-10-14T15:43:54.311Z] : [info]: Robot start
+
+[2023-10-14T15:44:24.504Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T15:44:25.031Z] : [info]: Total execution time: 30s 193ms
+
+[2023-10-14T15:44:25.032Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:44:41.286Z] : [success]: Bot started
+
+[2023-10-14T15:44:41.288Z] : [info]: Robot start
+
+[2023-10-14T15:45:49.317Z] : [error]: Script Stopped.
+
+[2023-10-14T15:45:49.418Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:46:33.501Z] : [warn]: There is a small amount of free memory (RAM) left, 90.23% of RAM is being used (7166 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:47:02.712Z] : [success]: Bot started
+
+[2023-10-14T15:47:02.713Z] : [info]: Robot start
+
+[2023-10-14T15:48:19.406Z] : [error]: Script Stopped.
+
+[2023-10-14T15:48:19.670Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:49:22.947Z] : [success]: Bot started
+
+[2023-10-14T15:49:22.948Z] : [info]: Robot start
+
+[2023-10-14T15:49:33.486Z] : [warn]: There is a small amount of free memory (RAM) left, 90.51% of RAM is being used (7188 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:49:41.030Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T15:49:41.474Z] : [info]: Total execution time: 18s 82ms
+
+[2023-10-14T15:49:41.475Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:50:01.408Z] : [success]: Bot started
+
+[2023-10-14T15:50:01.409Z] : [info]: Robot start
+
+[2023-10-14T15:50:14.099Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T15:50:14.517Z] : [info]: Total execution time: 12s 690ms
+
+[2023-10-14T15:50:14.518Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:52:10.286Z] : [success]: Bot started
+
+[2023-10-14T15:52:10.287Z] : [info]: Robot start
+
+[2023-10-14T15:52:24.910Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T15:52:25.352Z] : [info]: Total execution time: 14s 623ms
+
+[2023-10-14T15:52:25.353Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:54:03.477Z] : [warn]: There is a small amount of free memory (RAM) left, 90.27% of RAM is being used (7169 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T15:54:40.412Z] : [success]: Bot started
+
+[2023-10-14T15:54:40.413Z] : [info]: Robot start
+
+[2023-10-14T15:54:54.075Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T15:54:54.657Z] : [info]: Total execution time: 13s 662ms
+
+[2023-10-14T15:54:54.658Z] : [info]: ---------------------------------------------
+
+[2023-10-14T15:56:06.060Z] : [success]: Bot started
+
+[2023-10-14T15:56:06.061Z] : [info]: Robot start
+
+[2023-10-14T15:56:27.110Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T15:56:27.460Z] : [info]: Total execution time: 21s 49ms
+
+[2023-10-14T15:56:27.461Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:02:12.705Z] : [success]: Bot started
+
+[2023-10-14T16:02:12.706Z] : [info]: Robot start
+
+[2023-10-14T16:10:19.074Z] : [error]: Script Stopped.
+
+[2023-10-14T16:10:19.654Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:13:39.395Z] : [success]: Bot started
+
+[2023-10-14T16:13:39.396Z] : [info]: Robot start
+
+[2023-10-14T16:13:50.720Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T16:13:51.180Z] : [info]: Total execution time: 11s 324ms
+
+[2023-10-14T16:13:51.181Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:14:18.349Z] : [success]: Bot started
+
+[2023-10-14T16:14:18.352Z] : [info]: Robot start
+
+[2023-10-14T16:14:29.626Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T16:14:30.060Z] : [info]: Total execution time: 11s 274ms
+
+[2023-10-14T16:14:30.061Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:18:14.955Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:18:15.258Z] : [success]: Bot started
+
+[2023-10-14T16:18:15.259Z] : [info]: Robot start
+
+[2023-10-14T16:18:26.109Z] : [info]: Nombre del Cliente: MARTA AGUIRRE OSCAR ADRIAN
+Uso CFDI: Estudio.
+Tipo de desglose de Factura: impuestos Traslados
+Email: karina.rdz.corral@gmaul .com
+
+[2023-10-14T16:18:26.288Z] : [success]: Bot finished successfully, total execution time: 11s 26ms
+
+[2023-10-14T16:18:26.289Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:18:56.511Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:18:56.774Z] : [success]: Bot started
+
+[2023-10-14T16:18:56.774Z] : [info]: Robot start
+
+[2023-10-14T16:19:09.466Z] : [info]: ["Nombre del Cliente"," MARTA AGUIRRE OSCAR ADRIAN\nUso CFDI"," Estudio.\nTipo de desglose de Factura"," impuestos Traslados\nEmail"," karina.rdz.corral@gmaul .com"]
+
+[2023-10-14T16:19:10.207Z] : [success]: Bot finished successfully, total execution time: 13s 431ms
+
+[2023-10-14T16:19:10.208Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:19:43.798Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:19:44.041Z] : [success]: Bot started
+
+[2023-10-14T16:19:44.042Z] : [info]: Robot start
+
+[2023-10-14T16:20:08.474Z] : [error]: message_folio.text.split(...).split is not a function
+
+[2023-10-14T16:20:09.028Z] : [info]: Total execution time: 24s 431ms
+
+[2023-10-14T16:20:09.029Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:20:35.458Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:20:35.681Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:20:35.681Z] : [success]: Bot started
+
+[2023-10-14T16:20:35.682Z] : [info]: Robot start
+
+[2023-10-14T16:20:46.379Z] : [info]: undefined
+
+[2023-10-14T16:20:46.607Z] : [success]: Bot finished successfully, total execution time: 10s 923ms
+
+[2023-10-14T16:20:46.608Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:21:25.485Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:21:25.731Z] : [success]: Bot started
+
+[2023-10-14T16:21:25.732Z] : [info]: Robot start
+
+[2023-10-14T16:21:36.760Z] : [info]: ["Nombre del Cliente"," MARTA AGUIRRE OSCAR ADRIAN\nUso CFDI"," Estudio.\nTipo de desglose de Factura"," impuestos Traslados\nEmail"," karina.rdz.corral@gmaul .com"]
+
+[2023-10-14T16:21:37.640Z] : [success]: Bot finished successfully, total execution time: 11s 903ms
+
+[2023-10-14T16:21:37.641Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:22:23.081Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:22:23.300Z] : [success]: Bot started
+
+[2023-10-14T16:22:23.301Z] : [info]: Robot start
+
+[2023-10-14T16:22:34.379Z] : [info]: Nombre del Cliente
+
+[2023-10-14T16:22:35.254Z] : [success]: Bot finished successfully, total execution time: 11s 950ms
+
+[2023-10-14T16:22:35.255Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:22:47.007Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:22:47.219Z] : [success]: Bot started
+
+[2023-10-14T16:22:47.220Z] : [info]: Robot start
+
+[2023-10-14T16:22:59.178Z] : [info]: ["Nombre del Cliente"," MARTA AGUIRRE OSCAR ADRIAN\nUso CFDI"," Estudio.\nTipo de desglose de Factura"," impuestos Traslados\nEmail"," karina.rdz.corral@gmaul .com"]
+
+[2023-10-14T16:23:00.105Z] : [success]: Bot finished successfully, total execution time: 12s 881ms
+
+[2023-10-14T16:23:00.107Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:29:10.050Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:29:10.253Z] : [success]: Bot started
+
+[2023-10-14T16:29:10.254Z] : [info]: Robot start
+
+[2023-10-14T16:29:22.118Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T16:29:22.506Z] : [info]: Total execution time: 11s 863ms
+
+[2023-10-14T16:29:22.507Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:31:16.272Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:31:16.674Z] : [success]: Bot started
+
+[2023-10-14T16:31:16.674Z] : [info]: Robot start
+
+[2023-10-14T16:31:37.550Z] : [error]: message_folio.split is not a function
+
+[2023-10-14T16:31:37.966Z] : [info]: Total execution time: 20s 876ms
+
+[2023-10-14T16:31:37.967Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:39:03.481Z] : [warn]: There is a small amount of free memory (RAM) left, 91.45% of RAM is being used (7263 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T16:39:04.506Z] : [success]: Bot started
+
+[2023-10-14T16:39:04.507Z] : [info]: Robot start
+
+[2023-10-14T16:39:21.219Z] : [error]: message_folio.split is not a function
+
+[2023-10-14T16:39:21.545Z] : [info]: Total execution time: 16s 712ms
+
+[2023-10-14T16:39:21.546Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:46:22.094Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:46:22.455Z] : [success]: Bot started
+
+[2023-10-14T16:46:22.456Z] : [info]: Robot start
+
+[2023-10-14T16:46:33.507Z] : [warn]: There is a small amount of free memory (RAM) left, 93.04% of RAM is being used (7389 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-14T16:46:35.222Z] : [error]: Cannot read properties of undefined (reading 'split')
+
+[2023-10-14T16:46:35.529Z] : [info]: Total execution time: 12s 765ms
+
+[2023-10-14T16:46:35.530Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:47:01.814Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:47:02.017Z] : [success]: Bot started
+
+[2023-10-14T16:47:02.017Z] : [info]: Robot start
+
+[2023-10-14T16:47:14.387Z] : [error]: message_folio.split is not a function
+
+[2023-10-14T16:47:14.765Z] : [info]: Total execution time: 12s 370ms
+
+[2023-10-14T16:47:14.766Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:48:40.191Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:48:40.195Z] : [error]: Activity parameters required: Console log
+
+[2023-10-14T16:48:40.750Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:48:53.087Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:48:53.312Z] : [success]: Bot started
+
+[2023-10-14T16:48:53.313Z] : [info]: Robot start
+
+[2023-10-14T16:49:05.038Z] : [info]:  MARTA AGUIRRE OSCAR ADRIAN
+
+[2023-10-14T16:49:05.580Z] : [success]: Bot finished successfully, total execution time: 12s 262ms
+
+[2023-10-14T16:49:05.581Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:50:19.255Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:50:19.538Z] : [success]: Bot started
+
+[2023-10-14T16:50:19.538Z] : [info]: Robot start
+
+[2023-10-14T16:50:35.671Z] : [info]: message_folio.split is not a function
+
+[2023-10-14T16:50:36.311Z] : [success]: Bot finished successfully, total execution time: 16s 769ms
+
+[2023-10-14T16:50:36.313Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:51:29.262Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:51:29.477Z] : [success]: Bot started
+
+[2023-10-14T16:51:29.478Z] : [info]: Robot start
+
+[2023-10-14T16:51:41.796Z] : [success]: Bot finished successfully, total execution time: 12s 316ms
+
+[2023-10-14T16:51:41.797Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:52:15.252Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:52:15.485Z] : [success]: Bot started
+
+[2023-10-14T16:52:15.485Z] : [info]: Robot start
+
+[2023-10-14T16:52:32.167Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T16:52:32.670Z] : [info]: Total execution time: 16s 681ms
+
+[2023-10-14T16:52:32.671Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:52:50.639Z] : [success]: Bot started
+
+[2023-10-14T16:52:50.640Z] : [info]: Robot start
+
+[2023-10-14T16:53:55.691Z] : [error]: Script Stopped.
+
+[2023-10-14T16:53:55.835Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:54:53.869Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:54:54.146Z] : [success]: Bot started
+
+[2023-10-14T16:54:54.146Z] : [info]: Robot start
+
+[2023-10-14T16:55:56.899Z] : [error]: Script Stopped.
+
+[2023-10-14T16:55:57.140Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:56:33.773Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:56:34.009Z] : [success]: Bot started
+
+[2023-10-14T16:56:34.010Z] : [info]: Robot start
+
+[2023-10-14T16:58:32.627Z] : [error]: Script Stopped.
+
+[2023-10-14T16:58:32.869Z] : [info]: ---------------------------------------------
+
+[2023-10-14T16:58:53.425Z] : [success]: Robot saved successfully
+
+[2023-10-14T16:59:00.734Z] : [success]: Bot started
+
+[2023-10-14T16:59:00.735Z] : [info]: Robot start
+
+[2023-10-14T17:02:35.181Z] : [success]: Bot finished successfully, total execution time: 3m 34s 441ms
+
+[2023-10-14T17:02:35.182Z] : [info]: ---------------------------------------------
+
+[2023-10-14T17:12:19.942Z] : [success]: Robot saved successfully
+
+[2023-10-14T17:12:24.846Z] : [success]: Bot started
+
+[2023-10-14T17:12:24.847Z] : [info]: Robot start
+
+[2023-10-14T17:12:42.272Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T17:12:42.765Z] : [info]: Total execution time: 17s 423ms
+
+[2023-10-14T17:12:42.766Z] : [info]: ---------------------------------------------
+
+[2023-10-14T17:12:46.524Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-14T17:12:46.527Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-14T17:12:46.532Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-14T17:12:46.534Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-14T17:12:46.543Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-14T17:12:46.556Z] : [error]: Cannot read properties of null (reading 'type')
+

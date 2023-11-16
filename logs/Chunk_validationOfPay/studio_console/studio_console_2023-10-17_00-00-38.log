@@ -1,0 +1,73 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 12:01:19 AM
+  ==========================================
+  
+
+[2023-10-17T05:08:22.961Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:09:51.244Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T05:09:51.824Z] : [info]: Total execution time: 33s 659ms
+
+[2023-10-17T05:09:51.828Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:11:10.368Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T05:11:10.944Z] : [info]: Total execution time: 33s 89ms
+
+[2023-10-17T05:11:10.946Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:13:22.439Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:19:35.861Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T05:19:36.807Z] : [info]: Total execution time: 32s 902ms
+
+[2023-10-17T05:19:36.808Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:20:41.292Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-17T05:20:42.023Z] : [info]: Total execution time: 49s 840ms
+
+[2023-10-17T05:20:42.024Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:23:20.287Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:24:49.630Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T05:24:50.291Z] : [info]: Total execution time: 41s 715ms
+
+[2023-10-17T05:24:50.292Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:25:23.396Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:25:23.592Z] : [success]: Bot started
+
+[2023-10-17T05:25:23.592Z] : [info]: Robot start
+
+[2023-10-17T05:25:25.866Z] : [info]: message_folio is not defined
+
+[2023-10-17T05:25:26.374Z] : [success]: Bot finished successfully, total execution time: 2s 780ms
+
+[2023-10-17T05:25:26.375Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:34:53.116Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T05:34:53.522Z] : [info]: Total execution time: 1s 131ms
+
+[2023-10-17T05:34:53.523Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:37:41.003Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T05:37:41.390Z] : [info]: Total execution time: 2s 127ms
+
+[2023-10-17T05:37:41.391Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:38:06.621Z] : [error]: URL is not defined
+
+[2023-10-17T05:38:07.141Z] : [info]: Total execution time: 1s 117ms
+
+[2023-10-17T05:38:07.142Z] : [info]: ---------------------------------------------
+

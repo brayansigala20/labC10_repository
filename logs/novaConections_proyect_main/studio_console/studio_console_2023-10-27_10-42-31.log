@@ -1,0 +1,215 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/27/2023, 10:42:53 AM
+  ==========================================
+  
+
+[2023-10-27T16:42:11.299Z] : [success]: Robot saved successfully
+
+[2023-10-27T16:42:42.621Z] : [success]: Robot saved successfully
+
+[2023-10-27T16:45:47.895Z] : [info]: ---------------------------------------------
+
+[2023-10-27T16:45:47.896Z] : [success]: Bot started
+
+[2023-10-27T16:45:47.897Z] : [info]: Robot start
+
+[2023-10-27T16:48:20.427Z] : [success]: Robot saved successfully
+
+[2023-10-27T16:48:26.671Z] : [info]: ---------------------------------------------
+
+[2023-10-27T16:48:26.672Z] : [success]: Bot started
+
+[2023-10-27T16:48:26.673Z] : [info]: Robot start
+
+[2023-10-27T16:59:05.674Z] : [success]: Robot saved successfully
+
+[2023-10-27T16:59:12.102Z] : [success]: Bot started
+
+[2023-10-27T16:59:12.103Z] : [info]: Robot start
+
+[2023-10-27T17:00:30.326Z] : [success]: Bot finished successfully, total execution time: 1m 18s 220ms
+
+[2023-10-27T17:00:30.327Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:02:42.290Z] : [success]: Bot started
+
+[2023-10-27T17:02:42.291Z] : [info]: Robot start
+
+[2023-10-27T17:03:16.795Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-27T17:03:16.911Z] : [success]: Bot finished successfully, total execution time: 34s 617ms
+
+[2023-10-27T17:03:16.912Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:03:21.343Z] : [success]: Bot started
+
+[2023-10-27T17:03:21.345Z] : [info]: Robot start
+
+[2023-10-27T17:04:05.824Z] : [success]: Bot finished successfully, total execution time: 44s 475ms
+
+[2023-10-27T17:04:05.825Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:04:35.224Z] : [success]: Bot started
+
+[2023-10-27T17:04:35.225Z] : [info]: Robot start
+
+[2023-10-27T17:05:11.886Z] : [success]: Bot finished successfully, total execution time: 36s 657ms
+
+[2023-10-27T17:05:11.887Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:05:17.558Z] : [success]: Bot started
+
+[2023-10-27T17:05:17.558Z] : [info]: Robot start
+
+[2023-10-27T17:05:53.071Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-27T17:05:53.210Z] : [success]: Bot finished successfully, total execution time: 35s 649ms
+
+[2023-10-27T17:05:53.213Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:06:22.883Z] : [success]: Bot started
+
+[2023-10-27T17:06:22.884Z] : [info]: Robot start
+
+[2023-10-27T17:08:28.647Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:08:28.713Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:08:29.107Z] : [success]: Bot started
+
+[2023-10-27T17:08:29.108Z] : [info]: Robot start
+
+[2023-10-27T17:09:51.004Z] : [error]: Canceled by user
+
+[2023-10-27T17:09:51.574Z] : [info]: Total execution time: 1m 21s 895ms
+
+[2023-10-27T17:09:51.575Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:15:23.961Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:15:50.531Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:15:50.533Z] : [success]: Bot started
+
+[2023-10-27T17:15:50.534Z] : [info]: Robot start
+
+[2023-10-27T17:17:09.025Z] : [success]: Bot finished successfully, total execution time: 1m 18s 487ms
+
+[2023-10-27T17:17:09.026Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:19:34.597Z] : [success]: Bot started
+
+[2023-10-27T17:19:34.599Z] : [info]: Robot start
+
+[2023-10-27T17:20:38.883Z] : [error]: Script Stopped.
+
+[2023-10-27T17:20:39.316Z] : [info]: Total execution time: 1m 4s 282ms
+
+[2023-10-27T17:20:39.316Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:23:15.689Z] : [success]: Bot started
+
+[2023-10-27T17:23:15.690Z] : [info]: Robot start
+
+[2023-10-27T17:24:01.093Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:24:01.283Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:24:01.404Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:24:02.269Z] : [success]: Bot started
+
+[2023-10-27T17:24:02.270Z] : [info]: Robot start
+
+[2023-10-27T17:26:52.432Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:26:52.505Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:26:52.912Z] : [success]: Bot started
+
+[2023-10-27T17:26:52.913Z] : [info]: Robot start
+
+[2023-10-27T17:28:08.449Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-27T17:28:09.078Z] : [info]: Total execution time: 1m 15s 536ms
+
+[2023-10-27T17:28:09.079Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:29:14.075Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:29:14.831Z] : [success]: Bot started
+
+[2023-10-27T17:29:14.832Z] : [info]: Robot start
+
+[2023-10-27T17:30:26.766Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-27T17:30:27.260Z] : [info]: Total execution time: 1m 11s 934ms
+
+[2023-10-27T17:30:27.261Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:31:49.576Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:32:09.912Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:32:16.232Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:32:35.561Z] : [success]: Bot started
+
+[2023-10-27T17:32:35.562Z] : [info]: Robot start
+
+[2023-10-27T17:33:57.567Z] : [success]: Bot finished successfully, total execution time: 1m 22s 2ms
+
+[2023-10-27T17:33:57.569Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:35:30.152Z] : [success]: Bot started
+
+[2023-10-27T17:35:30.152Z] : [info]: Robot start
+
+[2023-10-27T17:36:51.548Z] : [success]: Bot finished successfully, total execution time: 1m 21s 393ms
+
+[2023-10-27T17:36:51.549Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:40:16.143Z] : [success]: Bot started
+
+[2023-10-27T17:40:16.144Z] : [info]: Robot start
+
+[2023-10-27T17:40:51.813Z] : [success]: Bot finished successfully, total execution time: 35s 666ms
+
+[2023-10-27T17:40:51.814Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:41:13.714Z] : [success]: Bot started
+
+[2023-10-27T17:41:13.715Z] : [info]: Robot start
+
+[2023-10-27T17:42:40.586Z] : [success]: Bot finished successfully, total execution time: 1m 26s 869ms
+
+[2023-10-27T17:42:40.587Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:46:11.798Z] : [success]: Bot started
+
+[2023-10-27T17:46:11.800Z] : [info]: Robot start
+
+[2023-10-27T17:47:29.973Z] : [success]: Bot finished successfully, total execution time: 1m 18s 170ms
+
+[2023-10-27T17:47:29.974Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:49:54.511Z] : [success]: Bot started
+
+[2023-10-27T17:49:54.512Z] : [info]: Robot start
+
+[2023-10-27T17:50:36.333Z] : [success]: Bot finished successfully, total execution time: 41s 819ms
+
+[2023-10-27T17:50:36.336Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:50:36.770Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-27T17:50:36.772Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-27T17:50:36.774Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-27T17:50:36.776Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-27T17:50:36.791Z] : [error]: Cannot read properties of null (reading 'type')
+

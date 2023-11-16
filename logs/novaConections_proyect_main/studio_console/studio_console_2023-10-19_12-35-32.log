@@ -1,0 +1,61 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/19/2023, 12:35:45 PM
+  ==========================================
+  
+
+[2023-10-19T17:38:50.381Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:38:50.382Z] : [success]: Bot started
+
+[2023-10-19T17:38:50.382Z] : [info]: Robot start
+
+[2023-10-19T17:39:20.316Z] : [info]: message_folio is not defined
+
+[2023-10-19T17:39:21.554Z] : [success]: Bot finished successfully, total execution time: 31s 168ms
+
+[2023-10-19T17:39:21.556Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:39:48.117Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:39:48.118Z] : [success]: Bot started
+
+[2023-10-19T17:39:48.118Z] : [info]: Robot start
+
+[2023-10-19T17:40:11.823Z] : [info]: message_folio is not defined
+
+[2023-10-19T17:40:12.533Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-19T17:40:12.567Z] : [success]: Bot finished successfully, total execution time: 24s 446ms
+
+[2023-10-19T17:40:12.567Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:42:30.764Z] : [success]: Bot started
+
+[2023-10-19T17:42:30.767Z] : [info]: Robot start
+
+[2023-10-19T17:46:46.494Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:46:46.619Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:46:47.010Z] : [success]: Bot started
+
+[2023-10-19T17:46:47.010Z] : [info]: Robot start
+
+[2023-10-19T17:47:37.958Z] : [error]: Script Stopped.
+
+[2023-10-19T17:47:38.647Z] : [info]: Total execution time: 50s 947ms
+
+[2023-10-19T17:47:38.649Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:47:40.624Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T17:47:40.626Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T17:47:40.631Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T17:47:40.635Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T17:47:40.641Z] : [error]: Cannot read properties of null (reading 'type')
+

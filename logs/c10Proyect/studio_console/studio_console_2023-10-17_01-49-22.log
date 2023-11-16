@@ -1,0 +1,11 @@
+[2023-10-17T06:49:38.174Z] : [error]: ENOENT: no such file or directory, open 'C:\Users\braya\Documents\ElectroNeek Workspace\novaConections_proyect\execute_js_code_scripts\c10Proyect_5.js'
+
+[2023-10-17T06:49:38.233Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 1:49:38 AM
+  ==========================================
+  
+

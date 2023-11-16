@@ -1,0 +1,133 @@
+[2023-10-17T05:40:17.674Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 12:40:17 AM
+  ==========================================
+  
+
+[2023-10-17T05:40:18.270Z] : [info]: Total execution time: 36s 174ms
+
+[2023-10-17T05:40:18.271Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:42:08.533Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T05:42:08.886Z] : [info]: Total execution time: 41s 546ms
+
+[2023-10-17T05:42:08.888Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:50:03.201Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:50:56.845Z] : [error]: Selectors: Parameter is not valid.
+
+[2023-10-17T05:50:57.162Z] : [info]: Total execution time: 45s 881ms
+
+[2023-10-17T05:50:57.164Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:52:55.880Z] : [error]: Selectors: Parameter is not valid.
+
+[2023-10-17T05:52:56.239Z] : [info]: Total execution time: 36s 145ms
+
+[2023-10-17T05:52:56.240Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:55:12.340Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T05:55:12.652Z] : [info]: Total execution time: 38s 89ms
+
+[2023-10-17T05:55:12.653Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:57:21.841Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T05:57:22.252Z] : [info]: Total execution time: 37s 38ms
+
+[2023-10-17T05:57:22.252Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:59:32.366Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T05:59:32.791Z] : [info]: Total execution time: 42s 299ms
+
+[2023-10-17T05:59:32.792Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:00:22.056Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:01:24.316Z] : [error]: Selectors: Image number(1009824087) greater than founded images count (1)
+
+[2023-10-17T06:01:24.707Z] : [info]: Total execution time: 43s 600ms
+
+[2023-10-17T06:01:24.708Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:02:15.909Z] : [error]: Selectors: Image number(1009824203) greater than founded images count (1)
+
+[2023-10-17T06:02:16.218Z] : [info]: Total execution time: 34s 73ms
+
+[2023-10-17T06:02:16.219Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:03:11.174Z] : [error]: Selectors: Image number(1009824319) greater than founded images count (1)
+
+[2023-10-17T06:03:11.526Z] : [info]: Total execution time: 38s 184ms
+
+[2023-10-17T06:03:11.526Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:05:17.076Z] : [error]: Selectors: Image number(1009824435) greater than founded images count (1)
+
+[2023-10-17T06:05:17.473Z] : [info]: Total execution time: 37s 139ms
+
+[2023-10-17T06:05:17.474Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:08:47.557Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T06:08:47.970Z] : [info]: Total execution time: 40s 731ms
+
+[2023-10-17T06:08:47.971Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:09:40.888Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T06:09:41.360Z] : [info]: Total execution time: 39s 209ms
+
+[2023-10-17T06:09:41.361Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:11:07.721Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T06:11:08.092Z] : [info]: Total execution time: 38s 189ms
+
+[2023-10-17T06:11:08.093Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:13:19.786Z] : [error]: Selectors: Fragment size larger than screen size
+
+[2023-10-17T06:13:20.429Z] : [info]: Total execution time: 40s 192ms
+
+[2023-10-17T06:13:20.430Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:15:06.846Z] : [error]: Selectors: Fragment size larger than screen size
+
+[2023-10-17T06:15:07.429Z] : [info]: Total execution time: 40s 277ms
+
+[2023-10-17T06:15:07.429Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:29:27.179Z] : [error]: Selectors: Fragment size larger than screen size
+
+[2023-10-17T06:29:27.784Z] : [info]: Total execution time: 41s 147ms
+
+[2023-10-17T06:29:27.785Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:30:35.999Z] : [error]: Selectors: Fragment size larger than screen size
+
+[2023-10-17T06:30:36.668Z] : [info]: Total execution time: 32s 112ms
+
+[2023-10-17T06:30:36.669Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:30:50.284Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:42:11.625Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:42:54.031Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T06:42:54.621Z] : [info]: Total execution time: 33s 392ms
+
+[2023-10-17T06:42:54.621Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:43:49.316Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:44:36.172Z] : [success]: Robot saved successfully
+

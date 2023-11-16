@@ -1,0 +1,171 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 12:00:54 AM
+  ==========================================
+  
+
+[2023-10-17T05:08:40.282Z] : [info]: Internet connection // error
+
+[2023-10-17T05:08:40.389Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:08:40.441Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:08:40.549Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:08:40.550Z] : [success]: Bot started
+
+[2023-10-17T05:08:40.550Z] : [info]: Robot start
+
+[2023-10-17T05:09:11.538Z] : [success]: Bot finished successfully, total execution time: 30s 988ms
+
+[2023-10-17T05:09:11.539Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:09:17.430Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T05:09:17.584Z] : [success]: Bot started
+
+[2023-10-17T05:09:17.585Z] : [info]: Robot start
+
+[2023-10-17T05:10:37.036Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:10:37.278Z] : [success]: Bot started
+
+[2023-10-17T05:10:37.278Z] : [info]: Robot start
+
+[2023-10-17T05:19:02.675Z] : [info]: Internet connection // error
+
+[2023-10-17T05:19:02.771Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:19:02.821Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:19:02.958Z] : [success]: Bot started
+
+[2023-10-17T05:19:02.958Z] : [info]: Robot start
+
+[2023-10-17T05:19:51.310Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T05:19:51.451Z] : [success]: Bot started
+
+[2023-10-17T05:19:51.452Z] : [info]: Robot start
+
+[2023-10-17T05:23:26.245Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:23:26.298Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:23:26.475Z] : [success]: Bot started
+
+[2023-10-17T05:23:26.475Z] : [info]: Robot start
+
+[2023-10-17T05:23:57.314Z] : [success]: Bot finished successfully, total execution time: 30s 835ms
+
+[2023-10-17T05:23:57.315Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:24:07.914Z] : [success]: Bot started
+
+[2023-10-17T05:24:07.914Z] : [info]: Robot start
+
+[2023-10-17T05:25:36.600Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:25:36.649Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:25:36.801Z] : [success]: Bot started
+
+[2023-10-17T05:25:36.802Z] : [info]: Robot start
+
+[2023-10-17T05:26:25.503Z] : [success]: Bot finished successfully, total execution time: 48s 697ms
+
+[2023-10-17T05:26:25.504Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:26:58.965Z] : [success]: Bot started
+
+[2023-10-17T05:26:58.966Z] : [info]: Robot start
+
+[2023-10-17T05:27:47.945Z] : [success]: Bot finished successfully, total execution time: 48s 975ms
+
+[2023-10-17T05:27:47.947Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:28:56.112Z] : [success]: Bot started
+
+[2023-10-17T05:28:56.113Z] : [info]: Robot start
+
+[2023-10-17T05:29:10.115Z] : [info]: message_folio is not defined
+
+[2023-10-17T05:29:10.454Z] : [success]: Bot finished successfully, total execution time: 14s 334ms
+
+[2023-10-17T05:29:10.455Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:30:07.477Z] : [info]: Internet connection // error
+
+[2023-10-17T05:30:18.103Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T05:31:56.231Z] : [info]: Internet connection // error
+
+[2023-10-17T05:31:56.481Z] : [success]: Bot started
+
+[2023-10-17T05:31:56.482Z] : [info]: Robot start
+
+[2023-10-17T05:33:27.523Z] : [error]: Unknown Error: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5001/api/execute","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5001/api/execute: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2023-10-17T05:33:27.802Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:33:29.073Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T05:33:35.567Z] : [success]: Bot started
+
+[2023-10-17T05:33:35.568Z] : [info]: Robot start
+
+[2023-10-17T05:33:36.657Z] : [error]: Script Stopped.
+
+[2023-10-17T05:33:36.862Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:33:43.404Z] : [success]: Bot started
+
+[2023-10-17T05:33:43.405Z] : [info]: Robot start
+
+[2023-10-17T05:33:44.524Z] : [error]: The agent is already running another script.
+
+[2023-10-17T05:33:44.689Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:34:51.984Z] : [success]: Bot started
+
+[2023-10-17T05:34:51.985Z] : [info]: Robot start
+
+[2023-10-17T05:37:38.489Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:37:38.538Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:37:38.875Z] : [success]: Bot started
+
+[2023-10-17T05:37:38.876Z] : [info]: Robot start
+
+[2023-10-17T05:37:48.801Z] : [info]: Internet connection // error
+
+[2023-10-17T05:37:48.927Z] : [success]: Bot started
+
+[2023-10-17T05:37:48.928Z] : [info]: Robot start
+
+[2023-10-17T05:37:50.031Z] : [error]: The agent is already running another script.
+
+[2023-10-17T05:37:50.181Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:38:05.363Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T05:38:05.503Z] : [success]: Bot started
+
+[2023-10-17T05:38:05.504Z] : [info]: Robot start
+
+[2023-10-17T05:38:55.109Z] : [success]: Robot saved successfully
+
+[2023-10-17T05:38:55.926Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T05:38:55.928Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T05:38:55.928Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T05:38:55.930Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T05:38:55.942Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T05:38:55.944Z] : [error]: Cannot read properties of null (reading 'type')
+

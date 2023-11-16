@@ -1,0 +1,28 @@
+[2023-10-17T04:36:35.368Z] : [error]: ENOENT: no such file or directory, open 'C:\Users\braya\Documents\ElectroNeek Workspace\novaConections_proyect\execute_js_code_scripts\c10Proyect_5.js'
+
+[2023-10-17T04:36:35.432Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/16/2023, 11:36:35 PM
+  ==========================================
+  
+
+[2023-10-17T04:36:41.971Z] : [info]: Internet connection // error
+
+[2023-10-17T04:38:38.480Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T04:39:07.740Z] : [error]: Uncaught (in promise): Error: ENOENT: no such file or directory, open 'C:\Users\braya\Downloads\c10\project.json'
+Error: ENOENT: no such file or directory, open 'C:\Users\braya\Downloads\c10\project.json'
+    at Object.openSync (node:fs:585:3)
+    at Object.func [as openSync] (node:electron/js2c/asar_bundle:5:1812)
+    at Object.readFileSync (node:fs:453:35)
+    at e.readFileSync (node:electron/js2c/asar_bundle:5:9160)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:4107339
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:3230641
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:584828)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:2280167)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:584768)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.409807ad21040c613615.js:1:579928)
+

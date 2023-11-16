@@ -1,0 +1,163 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/25/2023, 7:46:38 PM
+  ==========================================
+  
+
+[2023-10-26T00:51:17.218Z] : [info]: Internet connection // error
+
+[2023-10-26T00:51:17.425Z] : [info]: ---------------------------------------------
+
+[2023-10-26T00:51:17.426Z] : [success]: Bot started
+
+[2023-10-26T00:51:17.426Z] : [info]: Robot start
+
+[2023-10-26T00:52:46.658Z] : [error]: Cannot read properties of undefined (reading 'trim')
+
+[2023-10-26T00:52:47.375Z] : [info]: Total execution time: 1m 29s 231ms
+
+[2023-10-26T00:52:47.377Z] : [info]: ---------------------------------------------
+
+[2023-10-26T00:53:44.170Z] : [success]: Robot saved successfully
+
+[2023-10-26T00:53:57.611Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-26T00:53:57.711Z] : [error]: Activity parameters required: Console log
+
+[2023-10-26T00:53:57.976Z] : [info]: ---------------------------------------------
+
+[2023-10-26T00:54:02.264Z] : [success]: Robot saved successfully
+
+[2023-10-26T00:54:26.350Z] : [success]: Robot saved successfully
+
+[2023-10-26T00:54:31.430Z] : [success]: Bot started
+
+[2023-10-26T00:54:31.431Z] : [info]: Robot start
+
+[2023-10-26T00:55:10.233Z] : [success]: Bot finished successfully, total execution time: 38s 798ms
+
+[2023-10-26T00:55:10.235Z] : [info]: ---------------------------------------------
+
+[2023-10-26T00:55:36.259Z] : [success]: Bot started
+
+[2023-10-26T00:55:36.260Z] : [info]: Robot start
+
+[2023-10-26T00:56:13.893Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-26T00:56:13.945Z] : [success]: Bot finished successfully, total execution time: 37s 683ms
+
+[2023-10-26T00:56:13.946Z] : [info]: ---------------------------------------------
+
+[2023-10-26T00:56:59.244Z] : [success]: Robot saved successfully
+
+[2023-10-26T00:57:05.050Z] : [success]: Bot started
+
+[2023-10-26T00:57:05.051Z] : [info]: Robot start
+
+[2023-10-26T00:58:26.513Z] : [error]: Cannot read properties of undefined (reading 'trim')
+
+[2023-10-26T00:58:27.202Z] : [info]: Total execution time: 1m 21s 461ms
+
+[2023-10-26T00:58:27.203Z] : [info]: ---------------------------------------------
+
+[2023-10-26T00:58:54.886Z] : [success]: Robot saved successfully
+
+[2023-10-26T00:59:29.156Z] : [success]: Robot saved successfully
+
+[2023-10-26T00:59:51.183Z] : [success]: Robot saved successfully
+
+[2023-10-26T01:00:33.982Z] : [success]: Robot saved successfully
+
+[2023-10-26T01:00:42.922Z] : [success]: Bot started
+
+[2023-10-26T01:00:42.923Z] : [info]: Robot start
+
+[2023-10-26T01:01:12.414Z] : [error]: Script Stopped.
+
+[2023-10-26T01:01:12.916Z] : [info]: Total execution time: 29s 489ms
+
+[2023-10-26T01:01:12.917Z] : [info]: ---------------------------------------------
+
+[2023-10-26T01:01:18.926Z] : [success]: Bot started
+
+[2023-10-26T01:01:18.927Z] : [info]: Robot start
+
+[2023-10-26T01:02:44.233Z] : [info]: Cannot read properties of undefined (reading 'trim')
+
+[2023-10-26T01:02:44.441Z] : [success]: Bot finished successfully, total execution time: 1m 25s 510ms
+
+[2023-10-26T01:02:44.442Z] : [info]: ---------------------------------------------
+
+[2023-10-26T01:03:11.306Z] : [success]: Robot saved successfully
+
+[2023-10-26T01:03:41.659Z] : [success]: Bot started
+
+[2023-10-26T01:03:41.660Z] : [info]: Robot start
+
+[2023-10-26T01:05:05.584Z] : [info]: undefined
+
+[2023-10-26T01:05:06.204Z] : [success]: Bot finished successfully, total execution time: 1m 24s 541ms
+
+[2023-10-26T01:05:06.206Z] : [info]: ---------------------------------------------
+
+[2023-10-26T01:06:30.464Z] : [success]: Robot saved successfully
+
+[2023-10-26T01:06:34.624Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.625Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.628Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.629Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.630Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.635Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.637Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.638Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.639Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.640Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.641Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.642Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.645Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.646Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.646Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.648Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.648Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.649Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.650Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.651Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.652Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.653Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.654Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.655Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.656Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.657Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.658Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.661Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-26T01:06:34.662Z] : [error]: Cannot read properties of null (reading 'type')
+

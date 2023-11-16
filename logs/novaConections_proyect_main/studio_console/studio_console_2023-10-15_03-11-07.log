@@ -1,0 +1,27 @@
+[2023-10-15T08:11:22.848Z] : [info]: Internet connection // error
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/15/2023, 3:11:22 AM
+  ==========================================
+  
+
+[2023-10-15T08:11:41.851Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-15T08:11:41.949Z] : [info]: ---------------------------------------------
+
+[2023-10-15T08:11:41.950Z] : [success]: Bot started
+
+[2023-10-15T08:11:41.950Z] : [info]: Robot start
+
+[2023-10-15T08:12:29.984Z] : [success]: Bot finished successfully, total execution time: 48s 31ms
+
+[2023-10-15T08:12:29.986Z] : [info]: ---------------------------------------------
+
+[2023-10-15T21:01:41.550Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5001/api/variables","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5001/api/variables: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2023-10-15T21:02:19.901Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-15T21:02:19.902Z] : [error]: Cannot read properties of null (reading 'type')
+

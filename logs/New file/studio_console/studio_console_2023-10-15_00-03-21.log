@@ -1,0 +1,695 @@
+[2023-10-15T05:04:03.349Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/15/2023, 12:04:03 AM
+  ==========================================
+  
+
+[2023-10-15T05:06:52.535Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:07:20.868Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:10:20.510Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:10:20.583Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:10:20.584Z] : [success]: Bot started
+
+[2023-10-15T05:10:20.586Z] : [info]: Robot start
+
+[2023-10-15T05:10:22.038Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:10:22.208Z] : [info]: Total execution time: 1s 452ms
+
+[2023-10-15T05:10:22.209Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:10:43.407Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:10:43.594Z] : [success]: Bot started
+
+[2023-10-15T05:10:43.595Z] : [info]: Robot start
+
+[2023-10-15T05:10:44.567Z] : [info]: message_folio is not defined
+
+[2023-10-15T05:10:44.959Z] : [success]: Bot finished successfully, total execution time: 1s 362ms
+
+[2023-10-15T05:10:44.960Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:11:22.058Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:11:22.242Z] : [success]: Bot started
+
+[2023-10-15T05:11:22.243Z] : [info]: Robot start
+
+[2023-10-15T05:11:23.366Z] : [info]: message_folio is not defined
+
+[2023-10-15T05:11:23.655Z] : [success]: Bot finished successfully, total execution time: 1s 410ms
+
+[2023-10-15T05:11:23.656Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:12:15.813Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:12:19.676Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:12:19.892Z] : [success]: Bot started
+
+[2023-10-15T05:12:19.893Z] : [info]: Robot start
+
+[2023-10-15T05:12:21.384Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:12:21.621Z] : [info]: Total execution time: 1s 491ms
+
+[2023-10-15T05:12:21.621Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:14:26.204Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:25:38.345Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:25:38.482Z] : [success]: Bot started
+
+[2023-10-15T05:25:38.483Z] : [info]: Robot start
+
+[2023-10-15T05:25:40.083Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:25:40.422Z] : [info]: Total execution time: 1s 599ms
+
+[2023-10-15T05:25:40.423Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:26:30.689Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:26:30.788Z] : [success]: Bot started
+
+[2023-10-15T05:26:30.788Z] : [info]: Robot start
+
+[2023-10-15T05:26:32.284Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:26:32.508Z] : [info]: Total execution time: 1s 496ms
+
+[2023-10-15T05:26:32.509Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:27:03.477Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:27:03.724Z] : [success]: Bot started
+
+[2023-10-15T05:27:03.725Z] : [info]: Robot start
+
+[2023-10-15T05:27:05.445Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:27:05.724Z] : [info]: Total execution time: 1s 720ms
+
+[2023-10-15T05:27:05.725Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:28:34.056Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:30:55.418Z] : [info]: Internet connection // error
+
+[2023-10-15T05:30:55.491Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:30:55.587Z] : [success]: Bot started
+
+[2023-10-15T05:30:55.588Z] : [info]: Robot start
+
+[2023-10-15T05:30:56.790Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:30:57.092Z] : [info]: Total execution time: 1s 201ms
+
+[2023-10-15T05:30:57.093Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:34:09.535Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:34:09.860Z] : [success]: Bot started
+
+[2023-10-15T05:34:09.861Z] : [info]: Robot start
+
+[2023-10-15T05:34:11.352Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:34:11.606Z] : [info]: Total execution time: 1s 491ms
+
+[2023-10-15T05:34:11.607Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:38:05.480Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:38:05.785Z] : [success]: Bot started
+
+[2023-10-15T05:38:05.786Z] : [info]: Robot start
+
+[2023-10-15T05:38:07.472Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:38:07.717Z] : [info]: Total execution time: 1s 686ms
+
+[2023-10-15T05:38:07.718Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:38:24.260Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:40:26.923Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:40:27.169Z] : [success]: Bot started
+
+[2023-10-15T05:40:27.170Z] : [info]: Robot start
+
+[2023-10-15T05:40:28.646Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:40:28.993Z] : [info]: Total execution time: 1s 475ms
+
+[2023-10-15T05:40:28.994Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:41:02.156Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:41:02.633Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:41:02.698Z] : [info]: Total execution time: 27s 223ms
+
+[2023-10-15T05:41:02.699Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:41:02.785Z] : [error]: Cannot read properties of undefined (reading 'value')
+
+[2023-10-15T05:41:17.104Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:41:19.019Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:41:19.288Z] : [info]: Total execution time: 1s 747ms
+
+[2023-10-15T05:41:19.289Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:41:48.009Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:41:48.624Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:41:48.673Z] : [info]: Total execution time: 20s 706ms
+
+[2023-10-15T05:41:48.673Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:41:56.828Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:43:15.107Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:43:15.335Z] : [success]: Bot started
+
+[2023-10-15T05:43:15.336Z] : [info]: Robot start
+
+[2023-10-15T05:43:17.112Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:43:17.415Z] : [info]: Total execution time: 1s 776ms
+
+[2023-10-15T05:43:17.416Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:45:46.563Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:45:46.823Z] : [success]: Bot started
+
+[2023-10-15T05:45:46.824Z] : [info]: Robot start
+
+[2023-10-15T05:45:48.924Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:45:49.359Z] : [info]: Total execution time: 2s 100ms
+
+[2023-10-15T05:45:49.360Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:46:01.413Z] : [success]: Bot started
+
+[2023-10-15T05:46:01.414Z] : [info]: Robot start
+
+[2023-10-15T05:46:02.589Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:46:02.858Z] : [info]: Total execution time: 1s 175ms
+
+[2023-10-15T05:46:02.858Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:46:53.223Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:46:53.772Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:46:53.807Z] : [info]: Total execution time: 41s 60ms
+
+[2023-10-15T05:46:53.807Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:47:02.779Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:47:02.894Z] : [success]: Bot started
+
+[2023-10-15T05:47:02.895Z] : [info]: Robot start
+
+[2023-10-15T05:47:04.009Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:47:04.497Z] : [info]: Total execution time: 1s 114ms
+
+[2023-10-15T05:47:04.498Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:47:41.802Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:47:42.291Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:47:42.324Z] : [info]: Total execution time: 29s 134ms
+
+[2023-10-15T05:47:42.325Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:48:39.266Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:48:39.478Z] : [success]: Bot started
+
+[2023-10-15T05:48:39.478Z] : [info]: Robot start
+
+[2023-10-15T05:48:41.401Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:48:41.785Z] : [info]: Total execution time: 1s 922ms
+
+[2023-10-15T05:48:41.786Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:49:25.523Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:49:26.069Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:49:26.135Z] : [info]: Total execution time: 35s 605ms
+
+[2023-10-15T05:49:26.135Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:49:54.403Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:49:54.689Z] : [success]: Bot started
+
+[2023-10-15T05:49:54.690Z] : [info]: Robot start
+
+[2023-10-15T05:49:55.987Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:49:56.438Z] : [info]: Total execution time: 1s 297ms
+
+[2023-10-15T05:49:56.439Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:50:32.132Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:50:32.649Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:50:32.701Z] : [info]: Total execution time: 29s 251ms
+
+[2023-10-15T05:50:32.701Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:50:47.790Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:50:47.990Z] : [success]: Bot started
+
+[2023-10-15T05:50:47.991Z] : [info]: Robot start
+
+[2023-10-15T05:50:49.379Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:50:49.838Z] : [info]: Total execution time: 1s 388ms
+
+[2023-10-15T05:50:49.839Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:51:43.781Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:51:44.509Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:51:44.544Z] : [info]: Total execution time: 33s 126ms
+
+[2023-10-15T05:51:44.545Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:52:08.270Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:52:08.578Z] : [success]: Bot started
+
+[2023-10-15T05:52:08.579Z] : [info]: Robot start
+
+[2023-10-15T05:52:10.125Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:52:10.465Z] : [info]: Total execution time: 1s 546ms
+
+[2023-10-15T05:52:10.466Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:53:00.846Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:53:01.443Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T05:53:01.490Z] : [info]: Total execution time: 41s 310ms
+
+[2023-10-15T05:53:01.490Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:53:59.311Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T05:53:59.839Z] : [info]: Total execution time: 31s 722ms
+
+[2023-10-15T05:53:59.840Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:54:24.646Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:54:24.927Z] : [success]: Bot started
+
+[2023-10-15T05:54:24.928Z] : [info]: Robot start
+
+[2023-10-15T05:54:26.321Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:54:26.714Z] : [info]: Total execution time: 1s 393ms
+
+[2023-10-15T05:54:26.715Z] : [info]: ---------------------------------------------
+
+[2023-10-15T05:55:34.375Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:59:43.210Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:59:43.477Z] : [success]: Bot started
+
+[2023-10-15T05:59:43.478Z] : [info]: Robot start
+
+[2023-10-15T05:59:45.831Z] : [error]: message_folio is not defined
+
+[2023-10-15T05:59:46.206Z] : [info]: Total execution time: 2s 353ms
+
+[2023-10-15T05:59:46.207Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:00:39.847Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:00:40.352Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-10-15T06:00:40.411Z] : [info]: Total execution time: 31s 344ms
+
+[2023-10-15T06:00:40.412Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:04:13.308Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:04:49.690Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:04:50.191Z] : [info]: Total execution time: 30s 125ms
+
+[2023-10-15T06:04:50.191Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:05:21.986Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:05:22.118Z] : [success]: Bot started
+
+[2023-10-15T06:05:22.118Z] : [info]: Robot start
+
+[2023-10-15T06:05:23.739Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:05:24.180Z] : [success]: Bot finished successfully, total execution time: 2s 60ms
+
+[2023-10-15T06:05:24.180Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:05:54.725Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:05:55.254Z] : [info]: Total execution time: 22s 170ms
+
+[2023-10-15T06:05:55.254Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:06:12.841Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:06:12.961Z] : [success]: Bot started
+
+[2023-10-15T06:06:12.962Z] : [info]: Robot start
+
+[2023-10-15T06:06:14.707Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:06:15.335Z] : [success]: Bot finished successfully, total execution time: 2s 371ms
+
+[2023-10-15T06:06:15.336Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:09:49.727Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:09:50.049Z] : [info]: Total execution time: 27s 116ms
+
+[2023-10-15T06:09:50.050Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:10:45.684Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:10:46.126Z] : [info]: Total execution time: 29s 534ms
+
+[2023-10-15T06:10:46.127Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:14:32.269Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:14:32.464Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:14:32.465Z] : [success]: Bot started
+
+[2023-10-15T06:14:32.465Z] : [info]: Robot start
+
+[2023-10-15T06:14:33.900Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:14:34.305Z] : [success]: Bot finished successfully, total execution time: 1s 838ms
+
+[2023-10-15T06:14:34.306Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:14:35.908Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:16:03.998Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:18:37.598Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:19:33.405Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:20:00.951Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:20:01.405Z] : [info]: Total execution time: 21s 596ms
+
+[2023-10-15T06:20:01.405Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:21:33.832Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:22:17.926Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:22:18.280Z] : [info]: Total execution time: 37s 789ms
+
+[2023-10-15T06:22:18.280Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:22:32.923Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:22:33.040Z] : [success]: Bot started
+
+[2023-10-15T06:22:33.040Z] : [info]: Robot start
+
+[2023-10-15T06:22:34.489Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:22:34.946Z] : [success]: Bot finished successfully, total execution time: 1s 904ms
+
+[2023-10-15T06:22:34.946Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:25:55.265Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:27:37.822Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:27:38.177Z] : [info]: Total execution time: 25s 557ms
+
+[2023-10-15T06:27:38.178Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:28:39.572Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:28:39.809Z] : [info]: Total execution time: 50s 775ms
+
+[2023-10-15T06:28:39.810Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:31:41.843Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:32:39.463Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:32:39.790Z] : [info]: Total execution time: 49s 856ms
+
+[2023-10-15T06:32:39.791Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:34:33.142Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:36:07.784Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:36:08.022Z] : [success]: Bot started
+
+[2023-10-15T06:36:08.023Z] : [info]: Robot start
+
+[2023-10-15T06:36:09.967Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:36:10.363Z] : [success]: Bot finished successfully, total execution time: 2s 338ms
+
+[2023-10-15T06:36:10.364Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:36:44.920Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:36:45.351Z] : [info]: Total execution time: 25s 637ms
+
+[2023-10-15T06:36:45.352Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:42:33.452Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:42:33.827Z] : [info]: Total execution time: 35s 394ms
+
+[2023-10-15T06:42:33.828Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:42:42.450Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:42:42.619Z] : [success]: Bot started
+
+[2023-10-15T06:42:42.619Z] : [info]: Robot start
+
+[2023-10-15T06:42:43.432Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:42:44.666Z] : [success]: Bot finished successfully, total execution time: 2s 45ms
+
+[2023-10-15T06:42:44.667Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:43:09.501Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:46:50.748Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:47:38.442Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:47:39.329Z] : [info]: Total execution time: 38s 392ms
+
+[2023-10-15T06:47:39.331Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:47:49.452Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-15T06:47:49.591Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:47:49.792Z] : [success]: Bot started
+
+[2023-10-15T06:47:49.793Z] : [info]: Robot start
+
+[2023-10-15T06:47:51.605Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:47:51.972Z] : [success]: Bot finished successfully, total execution time: 2s 177ms
+
+[2023-10-15T06:47:51.973Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:48:42.808Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:48:43.384Z] : [info]: Total execution time: 42s 557ms
+
+[2023-10-15T06:48:43.385Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:48:53.221Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:50:00.954Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:50:01.639Z] : [info]: Total execution time: 45s 278ms
+
+[2023-10-15T06:50:01.640Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:51:16.574Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:51:17.178Z] : [info]: Total execution time: 57s 879ms
+
+[2023-10-15T06:51:17.178Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:51:20.973Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:52:29.202Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T06:52:29.985Z] : [info]: Total execution time: 59s 943ms
+
+[2023-10-15T06:52:29.986Z] : [info]: ---------------------------------------------
+
+[2023-10-15T06:56:23.806Z] : [success]: Robot saved successfully
+
+[2023-10-15T06:56:31.758Z] : [success]: Bot started
+
+[2023-10-15T06:56:31.760Z] : [info]: Robot start
+
+[2023-10-15T06:56:32.569Z] : [info]: message_folio is not defined
+
+[2023-10-15T06:56:32.928Z] : [success]: Bot finished successfully, total execution time: 1s 165ms
+
+[2023-10-15T06:56:32.928Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:00:53.243Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:01:49.121Z] : [error]: Script Stopped.
+
+[2023-10-15T07:01:49.865Z] : [info]: Total execution time: 49s 632ms
+
+[2023-10-15T07:01:49.865Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:02:40.470Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:03:21.257Z] : [error]: Unexpected end of input
+
+[2023-10-15T07:03:21.902Z] : [info]: Total execution time: 34s 593ms
+
+[2023-10-15T07:03:21.903Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:04:17.645Z] : [error]: Unexpected end of input
+
+[2023-10-15T07:04:18.295Z] : [info]: Total execution time: 34s 663ms
+
+[2023-10-15T07:04:18.296Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:09:44.664Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:10:59.608Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:13:56.791Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:14:03.418Z] : [error]: Activity parameters required: Console log
+
+[2023-10-15T07:14:03.836Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:14:53.462Z] : [error]: Activity parameters required: Console log
+
+[2023-10-15T07:14:53.758Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:15:00.401Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:24:45.218Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:29:59.009Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:31:07.904Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:38:51.863Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:40:03.657Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:41:25.997Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:42:37.907Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:43:47.128Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:46:33.395Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:46:57.619Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\braya\AppData\Local\Google\Chrome\User Data\Local State~RF94b46b13.TMP'
+
+[2023-10-15T07:46:58.108Z] : [info]: Total execution time: 18s 412ms
+
+[2023-10-15T07:46:58.109Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:47:27.279Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:49:04.243Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:50:06.065Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:52:44.242Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:53:29.257Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T07:53:30.081Z] : [info]: Total execution time: 38s 836ms
+
+[2023-10-15T07:53:30.082Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:53:45.123Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:53:45.357Z] : [success]: Bot started
+
+[2023-10-15T07:53:45.358Z] : [info]: Robot start
+
+[2023-10-15T07:53:47.261Z] : [info]: message_folio is not defined
+
+[2023-10-15T07:53:47.743Z] : [success]: Bot finished successfully, total execution time: 2s 382ms
+
+[2023-10-15T07:53:47.743Z] : [info]: ---------------------------------------------
+
+[2023-10-15T07:56:23.500Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:58:31.461Z] : [success]: Robot saved successfully
+
+[2023-10-15T07:58:43.406Z] : [success]: Robot saved successfully
+
+[2023-10-15T08:00:07.412Z] : [success]: Robot saved successfully
+
+[2023-10-15T08:00:26.149Z] : [success]: Robot saved successfully
+
+[2023-10-15T08:02:53.704Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-15T08:02:54.387Z] : [info]: Total execution time: 33s 802ms
+
+[2023-10-15T08:02:54.388Z] : [info]: ---------------------------------------------
+
+[2023-10-15T08:05:41.710Z] : [success]: Robot saved successfully
+

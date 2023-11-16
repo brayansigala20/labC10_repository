@@ -1,0 +1,53 @@
+[2023-10-19T03:48:15.653Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/18/2023, 10:48:16 PM
+  ==========================================
+  
+
+[2023-10-19T03:48:16.788Z] : [info]: Total execution time: 50s 613ms
+
+[2023-10-19T03:48:16.789Z] : [info]: ---------------------------------------------
+
+[2023-10-19T03:50:31.819Z] : [success]: Robot saved successfully
+
+[2023-10-19T03:51:46.420Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-19T03:51:47.094Z] : [info]: Total execution time: 1m 7s 112ms
+
+[2023-10-19T03:51:47.095Z] : [info]: ---------------------------------------------
+
+[2023-10-19T03:52:23.325Z] : [success]: Robot saved successfully
+
+[2023-10-19T03:55:06.620Z] : [success]: Robot saved successfully
+
+[2023-10-19T03:56:51.569Z] : [error]: Script Stopped.
+
+[2023-10-19T03:56:52.309Z] : [info]: Total execution time: 1m 36s 367ms
+
+[2023-10-19T03:56:52.310Z] : [info]: ---------------------------------------------
+
+[2023-10-19T03:57:03.035Z] : [success]: Robot saved successfully
+
+[2023-10-19T03:59:26.391Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/18/2023, 10:59:48 PM
+  ==========================================
+  
+
+[2023-10-19T03:59:50.857Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/18/2023, 11:00:11 PM
+  ==========================================
+  
+
+[2023-10-19T04:15:19.557Z] : [success]: Robot saved successfully
+

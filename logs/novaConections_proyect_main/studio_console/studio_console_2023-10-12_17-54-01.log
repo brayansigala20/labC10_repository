@@ -1,0 +1,547 @@
+[2023-10-12T22:54:19.195Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/12/2023, 5:54:19 PM
+  ==========================================
+  
+
+[2023-10-12T22:56:54.835Z] : [success]: Robot saved successfully
+
+[2023-10-12T22:56:54.982Z] : [info]: ---------------------------------------------
+
+[2023-10-12T22:56:54.983Z] : [success]: Bot started
+
+[2023-10-12T22:56:54.984Z] : [info]: Robot start
+
+[2023-10-12T22:56:56.668Z] : [success]: Bot finished successfully, total execution time: 1s 682ms
+
+[2023-10-12T22:56:56.669Z] : [info]: ---------------------------------------------
+
+[2023-10-12T22:57:15.053Z] : [success]: Robot saved successfully
+
+[2023-10-12T22:57:15.158Z] : [success]: Bot started
+
+[2023-10-12T22:57:15.159Z] : [info]: Robot start
+
+[2023-10-12T22:57:16.121Z] : [info]: undefined
+
+[2023-10-12T22:57:16.823Z] : [success]: Bot finished successfully, total execution time: 1s 662ms
+
+[2023-10-12T22:57:16.825Z] : [info]: ---------------------------------------------
+
+[2023-10-12T22:57:41.431Z] : [success]: Robot saved successfully
+
+[2023-10-12T22:57:41.547Z] : [success]: Bot started
+
+[2023-10-12T22:57:41.548Z] : [info]: Robot start
+
+[2023-10-12T22:57:42.588Z] : [info]: undefined
+
+[2023-10-12T22:57:42.885Z] : [success]: Bot finished successfully, total execution time: 1s 334ms
+
+[2023-10-12T22:57:42.886Z] : [info]: ---------------------------------------------
+
+[2023-10-12T22:58:57.186Z] : [success]: Robot saved successfully
+
+[2023-10-12T22:58:57.336Z] : [success]: Bot started
+
+[2023-10-12T22:58:57.337Z] : [info]: Robot start
+
+[2023-10-12T22:58:58.747Z] : [error]: Cannot access 'moment' before initialization
+
+[2023-10-12T22:58:58.971Z] : [info]: Total execution time: 1s 410ms
+
+[2023-10-12T22:58:58.972Z] : [info]: ---------------------------------------------
+
+[2023-10-12T22:59:01.508Z] : [warn]: There is a small amount of free memory (RAM) left, 92.09% of RAM is being used (7314 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-12T23:00:49.125Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:00:49.248Z] : [success]: Bot started
+
+[2023-10-12T23:00:49.249Z] : [info]: Robot start
+
+[2023-10-12T23:00:50.334Z] : [info]: undefined
+
+[2023-10-12T23:00:50.654Z] : [success]: Bot finished successfully, total execution time: 1s 403ms
+
+[2023-10-12T23:00:50.655Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:02:01.510Z] : [warn]: There is a small amount of free memory (RAM) left, 91.78% of RAM is being used (7289 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-12T23:02:18.456Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:02:18.575Z] : [success]: Bot started
+
+[2023-10-12T23:02:18.576Z] : [info]: Robot start
+
+[2023-10-12T23:02:19.624Z] : [info]: undefined
+
+[2023-10-12T23:02:20.012Z] : [success]: Bot finished successfully, total execution time: 1s 433ms
+
+[2023-10-12T23:02:20.013Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:02:48.915Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:02:49.060Z] : [success]: Bot started
+
+[2023-10-12T23:02:49.061Z] : [info]: Robot start
+
+[2023-10-12T23:02:50.262Z] : [info]: undefined : 2023-10-12T23:02:50.254Z
+
+[2023-10-12T23:02:50.474Z] : [success]: Bot finished successfully, total execution time: 1s 411ms
+
+[2023-10-12T23:02:50.475Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:03:44.383Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:03:44.508Z] : [success]: Bot started
+
+[2023-10-12T23:03:44.508Z] : [info]: Robot start
+
+[2023-10-12T23:03:45.910Z] : [error]: today.split is not a function
+
+[2023-10-12T23:03:46.114Z] : [info]: Total execution time: 1s 401ms
+
+[2023-10-12T23:03:46.115Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:04:23.757Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:04:23.863Z] : [success]: Bot started
+
+[2023-10-12T23:04:23.864Z] : [info]: Robot start
+
+[2023-10-12T23:04:25.294Z] : [error]: moment(...).split is not a function
+
+[2023-10-12T23:04:25.470Z] : [info]: Total execution time: 1s 430ms
+
+[2023-10-12T23:04:25.471Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:05:01.534Z] : [warn]: There is a small amount of free memory (RAM) left, 92.66% of RAM is being used (7359 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-12T23:06:26.060Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:06:26.207Z] : [success]: Bot started
+
+[2023-10-12T23:06:26.208Z] : [info]: Robot start
+
+[2023-10-12T23:06:27.622Z] : [error]: moment(...).split is not a function
+
+[2023-10-12T23:06:27.890Z] : [info]: Total execution time: 1s 414ms
+
+[2023-10-12T23:06:27.891Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:06:37.010Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:06:37.115Z] : [success]: Bot started
+
+[2023-10-12T23:06:37.116Z] : [info]: Robot start
+
+[2023-10-12T23:06:38.165Z] : [info]: moment(...).split is not a function
+
+[2023-10-12T23:06:38.524Z] : [success]: Bot finished successfully, total execution time: 1s 406ms
+
+[2023-10-12T23:06:38.525Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:07:09.475Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:07:09.613Z] : [success]: Bot started
+
+[2023-10-12T23:07:09.613Z] : [info]: Robot start
+
+[2023-10-12T23:07:10.611Z] : [info]: today.split is not a function
+
+[2023-10-12T23:07:11.021Z] : [success]: Bot finished successfully, total execution time: 1s 406ms
+
+[2023-10-12T23:07:11.022Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:07:45.720Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:07:45.828Z] : [success]: Bot started
+
+[2023-10-12T23:07:45.829Z] : [info]: Robot start
+
+[2023-10-12T23:07:47.571Z] : [success]: Bot finished successfully, total execution time: 1s 740ms
+
+[2023-10-12T23:07:47.572Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:08:25.721Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:08:25.834Z] : [success]: Bot started
+
+[2023-10-12T23:08:25.835Z] : [info]: Robot start
+
+[2023-10-12T23:08:26.847Z] : [info]: Unexpected identifier
+
+[2023-10-12T23:08:27.585Z] : [success]: Bot finished successfully, total execution time: 1s 747ms
+
+[2023-10-12T23:08:27.586Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:09:18.514Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:09:18.632Z] : [success]: Bot started
+
+[2023-10-12T23:09:18.632Z] : [info]: Robot start
+
+[2023-10-12T23:09:20.080Z] : [success]: Bot finished successfully, total execution time: 1s 445ms
+
+[2023-10-12T23:09:20.080Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:09:30.912Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:09:31.051Z] : [success]: Bot started
+
+[2023-10-12T23:09:31.051Z] : [info]: Robot start
+
+[2023-10-12T23:09:32.105Z] : [info]: undefined
+
+[2023-10-12T23:09:32.519Z] : [success]: Bot finished successfully, total execution time: 1s 467ms
+
+[2023-10-12T23:09:32.520Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:11:01.519Z] : [warn]: There is a small amount of free memory (RAM) left, 90.33% of RAM is being used (7174 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-12T23:11:56.058Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:11:56.165Z] : [success]: Bot started
+
+[2023-10-12T23:11:56.166Z] : [info]: Robot start
+
+[2023-10-12T23:11:57.227Z] : [info]: undefined : October 12th 2023
+
+[2023-10-12T23:11:57.994Z] : [success]: Bot finished successfully, total execution time: 1s 826ms
+
+[2023-10-12T23:11:57.995Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:12:01.490Z] : [warn]: There is a small amount of free memory (RAM) left, 90.68% of RAM is being used (7202 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-12T23:18:01.498Z] : [warn]: There is a small amount of free memory (RAM) left, 91.24% of RAM is being used (7246 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-12T23:20:19.589Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:20:19.732Z] : [success]: Bot started
+
+[2023-10-12T23:20:19.732Z] : [info]: Robot start
+
+[2023-10-12T23:20:20.771Z] : [info]: undefined : 1697152820753
+
+[2023-10-12T23:20:21.267Z] : [success]: Bot finished successfully, total execution time: 1s 532ms
+
+[2023-10-12T23:20:21.269Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:21:26.923Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:21:27.086Z] : [success]: Bot started
+
+[2023-10-12T23:21:27.086Z] : [info]: Robot start
+
+[2023-10-12T23:21:28.570Z] : [error]: today.split is not a function
+
+[2023-10-12T23:21:28.857Z] : [info]: Total execution time: 1s 484ms
+
+[2023-10-12T23:21:28.858Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:23:54.613Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:23:54.733Z] : [success]: Bot started
+
+[2023-10-12T23:23:54.733Z] : [info]: Robot start
+
+[2023-10-12T23:23:55.804Z] : [info]: undefined : 2023-10-12
+
+[2023-10-12T23:23:56.277Z] : [success]: Bot finished successfully, total execution time: 1s 542ms
+
+[2023-10-12T23:23:56.278Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:25:09.925Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:25:10.063Z] : [success]: Bot started
+
+[2023-10-12T23:25:10.063Z] : [info]: Robot start
+
+[2023-10-12T23:25:43.066Z] : [success]: Bot finished successfully, total execution time: 33s
+
+[2023-10-12T23:25:43.068Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:35:23.151Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:35:23.278Z] : [success]: Bot started
+
+[2023-10-12T23:35:23.279Z] : [info]: Robot start
+
+[2023-10-12T23:35:58.311Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]}
+
+[2023-10-12T23:35:59.320Z] : [success]: Bot finished successfully, total execution time: 36s 37ms
+
+[2023-10-12T23:35:59.321Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:37:23.432Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:37:23.601Z] : [success]: Bot started
+
+[2023-10-12T23:37:23.601Z] : [info]: Robot start
+
+[2023-10-12T23:38:02.661Z] : [success]: Bot finished successfully, total execution time: 39s 56ms
+
+[2023-10-12T23:38:02.662Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:40:28.016Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:40:28.153Z] : [success]: Bot started
+
+[2023-10-12T23:40:28.154Z] : [info]: Robot start
+
+[2023-10-12T23:40:58.191Z] : [error]: msg_folio is not defined
+
+[2023-10-12T23:40:58.618Z] : [info]: Total execution time: 30s 36ms
+
+[2023-10-12T23:40:58.619Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:42:13.748Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:42:13.882Z] : [success]: Bot started
+
+[2023-10-12T23:42:13.882Z] : [info]: Robot start
+
+[2023-10-12T23:42:42.264Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : [object Object]
+
+[2023-10-12T23:42:42.867Z] : [success]: Bot finished successfully, total execution time: 28s 981ms
+
+[2023-10-12T23:42:42.869Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:43:04.945Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:43:05.119Z] : [success]: Bot started
+
+[2023-10-12T23:43:05.119Z] : [info]: Robot start
+
+[2023-10-12T23:43:32.977Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : [object Object]
+
+[2023-10-12T23:43:33.025Z] : [success]: Bot finished successfully, total execution time: 27s 904ms
+
+[2023-10-12T23:43:33.026Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:44:10.911Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:44:11.052Z] : [success]: Bot started
+
+[2023-10-12T23:44:11.052Z] : [info]: Robot start
+
+[2023-10-12T23:44:36.096Z] : [error]: Cannot read properties of undefined (reading 'from')
+
+[2023-10-12T23:44:36.650Z] : [info]: Total execution time: 25s 43ms
+
+[2023-10-12T23:44:36.651Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:45:04.948Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:48:10.555Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:48:10.781Z] : [success]: Bot started
+
+[2023-10-12T23:48:10.782Z] : [info]: Robot start
+
+[2023-10-12T23:48:42.872Z] : [error]: Cannot read properties of undefined (reading 'from')
+
+[2023-10-12T23:48:43.359Z] : [info]: Total execution time: 32s 89ms
+
+[2023-10-12T23:48:43.360Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:50:32.624Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:50:32.790Z] : [success]: Bot started
+
+[2023-10-12T23:50:32.790Z] : [info]: Robot start
+
+[2023-10-12T23:51:04.959Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : N
+
+[2023-10-12T23:51:05.923Z] : [success]: Bot finished successfully, total execution time: 33s 130ms
+
+[2023-10-12T23:51:05.924Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:52:41.602Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:52:41.739Z] : [success]: Bot started
+
+[2023-10-12T23:52:41.740Z] : [info]: Robot start
+
+[2023-10-12T23:53:10.444Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : Nombre del Cliente: RODRIGUEZ CORRAL KARINA
+Uso CFDI: Estudio.
+Tipo de desglose de Factura: impuestos Traslados
+Email: karina.rdz.corral@gmaul .com
+
+[2023-10-12T23:53:10.766Z] : [success]: Bot finished successfully, total execution time: 29s 22ms
+
+[2023-10-12T23:53:10.768Z] : [info]: ---------------------------------------------
+
+[2023-10-12T23:53:29.003Z] : [success]: Robot saved successfully
+
+[2023-10-12T23:53:29.180Z] : [success]: Bot started
+
+[2023-10-12T23:53:29.180Z] : [info]: Robot start
+
+[2023-10-12T23:54:02.299Z] : [error]: Cannot read properties of undefined (reading 'text')
+
+[2023-10-12T23:54:02.726Z] : [info]: Total execution time: 33s 119ms
+
+[2023-10-12T23:54:02.728Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:36:58.769Z] : [warn]: There is a small amount of free memory (RAM) left, 90.47% of RAM is being used (7185 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T03:37:23.772Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:37:24.006Z] : [success]: Bot started
+
+[2023-10-13T03:37:24.006Z] : [info]: Robot start
+
+[2023-10-13T03:38:25.817Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : Nombre del Cliente: RODRIGUEZ CORRAL KARINA
+Uso CFDI: Estudio.
+Tipo de desglose de Factura: impuestos Traslados
+Email: karina.rdz.corral@gmaul .com
+
+[2023-10-13T03:38:26.251Z] : [success]: Bot finished successfully, total execution time: 1m 2s 242ms
+
+[2023-10-13T03:38:26.252Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:38:41.644Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:38:41.785Z] : [success]: Bot started
+
+[2023-10-13T03:38:41.785Z] : [info]: Robot start
+
+[2023-10-13T03:39:36.626Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : [object Object]
+
+[2023-10-13T03:39:37.105Z] : [success]: Bot finished successfully, total execution time: 55s 318ms
+
+[2023-10-13T03:39:37.105Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:44:25.952Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:44:26.163Z] : [success]: Bot started
+
+[2023-10-13T03:44:26.164Z] : [info]: Robot start
+
+[2023-10-13T03:45:16.183Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : [object Object]
+
+[2023-10-13T03:45:16.881Z] : [success]: Bot finished successfully, total execution time: 50s 714ms
+
+[2023-10-13T03:45:16.882Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:46:33.809Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:46:33.979Z] : [success]: Bot started
+
+[2023-10-13T03:46:33.980Z] : [info]: Robot start
+
+[2023-10-13T03:47:07.718Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : [object Object]
+
+[2023-10-13T03:47:08.404Z] : [success]: Bot finished successfully, total execution time: 34s 421ms
+
+[2023-10-13T03:47:08.406Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:47:35.758Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:47:35.930Z] : [success]: Bot started
+
+[2023-10-13T03:47:35.930Z] : [info]: Robot start
+
+[2023-10-13T03:48:12.563Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]}
+
+[2023-10-13T03:48:13.079Z] : [success]: Bot finished successfully, total execution time: 37s 146ms
+
+[2023-10-13T03:48:13.079Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:48:48.707Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:48:48.954Z] : [success]: Bot started
+
+[2023-10-13T03:48:48.955Z] : [info]: Robot start
+
+[2023-10-13T03:49:28.364Z] : [error]: Cannot read properties of undefined (reading 'from')
+
+[2023-10-13T03:49:28.912Z] : [info]: Total execution time: 39s 409ms
+
+[2023-10-13T03:49:28.913Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:49:41.077Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:49:41.285Z] : [success]: Bot started
+
+[2023-10-13T03:49:41.286Z] : [info]: Robot start
+
+[2023-10-13T03:50:07.297Z] : [info]: {"from":[{"address":"brayanelcrack20@gmail.com","name":"brayan sigala"}],"date":"2023-10-12T22:20:12.000Z","receivedDate":"2023-10-12T22:20:23.000Z","to":[{"address":"brayansigala21@gmail.com","name":"Brayan sigala martinez"}],"subject":"220106040074","text":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com","textPlain":"Nombre del Cliente: RODRIGUEZ CORRAL KARINA\nUso CFDI: Estudio.\nTipo de desglose de Factura: impuestos Traslados\nEmail: karina.rdz.corral@gmaul .com\n","hasAttachment":false,"uid":"20293","attachments":[]} : [object Object]
+
+[2023-10-13T03:50:07.408Z] : [success]: Bot finished successfully, total execution time: 26s 120ms
+
+[2023-10-13T03:50:07.409Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:57:01.509Z] : [warn]: There is a small amount of free memory (RAM) left, 92.14% of RAM is being used (7318 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T03:58:34.943Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:58:34.950Z] : [error]: Activity parameters required: Assign value to variable
+
+[2023-10-13T03:58:35.684Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:58:49.105Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:58:49.283Z] : [success]: Bot started
+
+[2023-10-13T03:58:49.284Z] : [info]: Robot start
+
+[2023-10-13T03:59:23.906Z] : [error]: Unexpected token '['
+
+[2023-10-13T03:59:24.593Z] : [info]: Total execution time: 34s 622ms
+
+[2023-10-13T03:59:24.594Z] : [info]: ---------------------------------------------
+
+[2023-10-13T03:59:32.148Z] : [success]: Robot saved successfully
+
+[2023-10-13T03:59:32.331Z] : [success]: Bot started
+
+[2023-10-13T03:59:32.332Z] : [info]: Robot start
+
+[2023-10-13T04:00:01.553Z] : [warn]: There is a small amount of free memory (RAM) left, 93.29% of RAM is being used (7409 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T04:00:09.189Z] : [success]: Bot finished successfully, total execution time: 36s 853ms
+
+[2023-10-13T04:00:09.191Z] : [info]: ---------------------------------------------
+
+[2023-10-13T04:00:19.677Z] : [success]: Bot started
+
+[2023-10-13T04:00:19.679Z] : [info]: Robot start
+
+[2023-10-13T04:00:59.687Z] : [success]: Bot finished successfully, total execution time: 40s 5ms
+
+[2023-10-13T04:00:59.688Z] : [info]: ---------------------------------------------
+
+[2023-10-13T04:01:23.442Z] : [success]: Robot saved successfully
+
+[2023-10-13T04:01:23.616Z] : [success]: Bot started
+
+[2023-10-13T04:01:23.617Z] : [info]: Robot start
+
+[2023-10-13T04:01:59.665Z] : [success]: Bot finished successfully, total execution time: 36s 42ms
+
+[2023-10-13T04:01:59.668Z] : [info]: ---------------------------------------------
+
+[2023-10-13T04:02:31.521Z] : [warn]: There is a small amount of free memory (RAM) left, 92.02% of RAM is being used (7308 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T04:03:15.999Z] : [success]: Robot saved successfully
+
+[2023-10-13T04:03:16.306Z] : [success]: Bot started
+
+[2023-10-13T04:03:16.309Z] : [info]: Robot start
+
+[2023-10-13T04:03:47.144Z] : [error]: Unexpected token '.'
+
+[2023-10-13T04:03:47.767Z] : [info]: Total execution time: 30s 835ms
+
+[2023-10-13T04:03:47.768Z] : [info]: ---------------------------------------------
+
+[2023-10-13T04:17:31.521Z] : [warn]: There is a small amount of free memory (RAM) left, 90.49% of RAM is being used (7187 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-13T04:29:01.525Z] : [warn]: There is a small amount of free memory (RAM) left, 90.46% of RAM is being used (7184 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+

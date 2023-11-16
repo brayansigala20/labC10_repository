@@ -1,0 +1,505 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/18/2023, 3:13:51 PM
+  ==========================================
+  
+
+[2023-10-18T20:14:00.283Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:14:00.652Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:14:00.652Z] : [success]: Bot started
+
+[2023-10-18T20:14:00.653Z] : [info]: Robot start
+
+[2023-10-18T20:15:17.663Z] : [success]: Bot finished successfully, total execution time: 1m 17s 8ms
+
+[2023-10-18T20:15:17.664Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:16:22.883Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:16:23.294Z] : [success]: Bot started
+
+[2023-10-18T20:16:23.295Z] : [info]: Robot start
+
+[2023-10-18T20:17:43.261Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-18T20:17:43.329Z] : [success]: Bot finished successfully, total execution time: 1m 20s 31ms
+
+[2023-10-18T20:17:43.329Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:24:50.709Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:24:51.120Z] : [success]: Bot started
+
+[2023-10-18T20:24:51.121Z] : [info]: Robot start
+
+[2023-10-18T20:25:56.470Z] : [error]: Script Stopped.
+
+[2023-10-18T20:25:56.969Z] : [info]: Total execution time: 1m 5s 349ms
+
+[2023-10-18T20:25:56.970Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:26:53.165Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:26:53.651Z] : [success]: Bot started
+
+[2023-10-18T20:26:53.652Z] : [info]: Robot start
+
+[2023-10-18T20:27:23.430Z] : [success]: Bot finished successfully, total execution time: 29s 775ms
+
+[2023-10-18T20:27:23.432Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:27:33.938Z] : [success]: Bot started
+
+[2023-10-18T20:27:33.939Z] : [info]: Robot start
+
+[2023-10-18T20:28:01.102Z] : [info]: message_folio is not defined
+
+[2023-10-18T20:28:01.510Z] : [success]: Bot finished successfully, total execution time: 27s 567ms
+
+[2023-10-18T20:28:01.511Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:28:20.147Z] : [success]: Bot started
+
+[2023-10-18T20:28:20.148Z] : [info]: Robot start
+
+[2023-10-18T20:29:05.871Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:29:11.879Z] : [success]: Bot started
+
+[2023-10-18T20:29:11.880Z] : [info]: Robot start
+
+[2023-10-18T20:29:37.150Z] : [info]: message_folio is not defined
+
+[2023-10-18T20:29:37.453Z] : [success]: Bot finished successfully, total execution time: 25s 570ms
+
+[2023-10-18T20:29:37.454Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:30:55.351Z] : [success]: Bot started
+
+[2023-10-18T20:30:55.351Z] : [info]: Robot start
+
+[2023-10-18T20:32:41.265Z] : [success]: Bot finished successfully, total execution time: 1m 45s 910ms
+
+[2023-10-18T20:32:41.266Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:33:33.961Z] : [success]: Bot started
+
+[2023-10-18T20:33:33.962Z] : [info]: Robot start
+
+[2023-10-18T20:34:54.307Z] : [success]: Bot finished successfully, total execution time: 1m 20s 341ms
+
+[2023-10-18T20:34:54.308Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:43:29.640Z] : [success]: Bot started
+
+[2023-10-18T20:43:29.641Z] : [info]: Robot start
+
+[2023-10-18T20:44:28.735Z] : [success]: Bot finished successfully, total execution time: 59s 91ms
+
+[2023-10-18T20:44:28.735Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:53:21.480Z] : [success]: Bot started
+
+[2023-10-18T20:53:21.481Z] : [info]: Robot start
+
+[2023-10-18T20:53:51.783Z] : [info]: message_folio is not defined
+
+[2023-10-18T20:53:52.061Z] : [success]: Bot finished successfully, total execution time: 30s 577ms
+
+[2023-10-18T20:53:52.063Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:54:06.445Z] : [success]: Bot started
+
+[2023-10-18T20:54:06.446Z] : [info]: Robot start
+
+[2023-10-18T20:54:36.181Z] : [info]: message_folio is not defined
+
+[2023-10-18T20:54:37.022Z] : [success]: Bot finished successfully, total execution time: 30s 572ms
+
+[2023-10-18T20:54:37.023Z] : [info]: ---------------------------------------------
+
+[2023-10-18T20:54:56.772Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:55:29.130Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:55:29.208Z] : [success]: Robot saved successfully
+
+[2023-10-18T20:55:29.662Z] : [success]: Bot started
+
+[2023-10-18T20:55:29.664Z] : [info]: Robot start
+
+[2023-10-18T20:56:59.004Z] : [success]: Bot finished successfully, total execution time: 1m 29s 336ms
+
+[2023-10-18T20:56:59.006Z] : [info]: ---------------------------------------------
+
+[2023-10-18T21:59:46.618Z] : [success]: Bot started
+
+[2023-10-18T21:59:46.623Z] : [info]: Robot start
+
+[2023-10-18T22:00:21.354Z] : [error]: Cannot read properties of undefined (reading 'trim')
+
+[2023-10-18T22:00:22.124Z] : [info]: Total execution time: 34s 729ms
+
+[2023-10-18T22:00:22.126Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:02:23.742Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:02:45.344Z] : [success]: Bot started
+
+[2023-10-18T22:02:45.345Z] : [info]: Robot start
+
+[2023-10-18T22:03:17.358Z] : [info]: {"use":" Duran Marquez Breiner Alexander","type":" Honorarios médicos, dentales y gastos hospitalarios.","email":" Impuestos traslados"}
+
+[2023-10-18T22:03:17.974Z] : [success]: Bot finished successfully, total execution time: 32s 626ms
+
+[2023-10-18T22:03:17.975Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:03:29.265Z] : [success]: Bot started
+
+[2023-10-18T22:03:29.266Z] : [info]: Robot start
+
+[2023-10-18T22:04:05.001Z] : [info]: message_folio is not defined
+
+[2023-10-18T22:04:05.691Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-18T22:04:05.958Z] : [success]: Bot finished successfully, total execution time: 36s 689ms
+
+[2023-10-18T22:04:05.958Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:04:47.335Z] : [success]: Bot started
+
+[2023-10-18T22:04:47.336Z] : [info]: Robot start
+
+[2023-10-18T22:05:17.553Z] : [info]: {"use":" Duran Marquez Breiner Alexander","type":" Honorarios médicos, dentales y gastos hospitalarios.","email":" Impuestos traslados"}
+
+[2023-10-18T22:05:17.973Z] : [success]: Bot finished successfully, total execution time: 30s 634ms
+
+[2023-10-18T22:05:17.974Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:17:42.843Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:17:43.384Z] : [success]: Bot started
+
+[2023-10-18T22:17:43.385Z] : [info]: Robot start
+
+[2023-10-18T22:18:14.499Z] : [info]: {"Nombre":"Duran Marquez Breiner Alexander","Uso":"Honorarios médicos, dentales y gastos hospitalarios.","Tipo":"Impuestos traslados","Sexo":"Femenino","Fecha":"2023/06/08","Teléfono":"04145818721","RFC":"ALE 1234","Régimen":"Enajenación de bienes","Código":"21100","Email":"[brayanelcrack20@gmail.com](brayanelcrack20@gmail.com)"}
+
+[2023-10-18T22:18:15.319Z] : [success]: Bot finished successfully, total execution time: 31s 931ms
+
+[2023-10-18T22:18:15.320Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:21:23.895Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:23:46.224Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:24:03.405Z] : [success]: Bot started
+
+[2023-10-18T22:24:03.407Z] : [info]: Robot start
+
+[2023-10-18T22:24:39.267Z] : [success]: Bot finished successfully, total execution time: 35s 857ms
+
+[2023-10-18T22:24:39.268Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:25:01.306Z] : [success]: Bot started
+
+[2023-10-18T22:25:01.306Z] : [info]: Robot start
+
+[2023-10-18T22:25:27.556Z] : [success]: Bot started
+
+[2023-10-18T22:25:27.557Z] : [info]: Robot start
+
+[2023-10-18T22:25:58.998Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-18T22:25:59.165Z] : [success]: Bot finished successfully, total execution time: 31s 603ms
+
+[2023-10-18T22:25:59.166Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:26:08.275Z] : [success]: Bot started
+
+[2023-10-18T22:26:08.275Z] : [info]: Robot start
+
+[2023-10-18T22:26:40.095Z] : [error]: Cannot read properties of undefined (reading 'trim')
+
+[2023-10-18T22:26:40.728Z] : [info]: Total execution time: 31s 820ms
+
+[2023-10-18T22:26:40.729Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:29:29.637Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:30:04.697Z] : [success]: Bot started
+
+[2023-10-18T22:30:04.697Z] : [info]: Robot start
+
+[2023-10-18T22:30:47.468Z] : [success]: Bot finished successfully, total execution time: 42s 767ms
+
+[2023-10-18T22:30:47.468Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:57:18.869Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:57:18.939Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:57:19.435Z] : [success]: Bot started
+
+[2023-10-18T22:57:19.435Z] : [info]: Robot start
+
+[2023-10-18T22:58:20.726Z] : [info]: undefined
+
+[2023-10-18T22:58:21.319Z] : [success]: Bot finished successfully, total execution time: 1m 1s 880ms
+
+[2023-10-18T22:58:21.321Z] : [info]: ---------------------------------------------
+
+[2023-10-18T22:59:15.953Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:59:16.032Z] : [success]: Robot saved successfully
+
+[2023-10-18T22:59:16.515Z] : [success]: Bot started
+
+[2023-10-18T22:59:16.516Z] : [info]: Robot start
+
+[2023-10-18T23:00:04.477Z] : [info]: 
+
+[2023-10-18T23:00:05.198Z] : [success]: Bot finished successfully, total execution time: 48s 679ms
+
+[2023-10-18T23:00:05.199Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:01:52.219Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:02:11.030Z] : [success]: Bot started
+
+[2023-10-18T23:02:11.031Z] : [info]: Robot start
+
+[2023-10-18T23:03:03.125Z] : [success]: Bot finished successfully, total execution time: 52s 89ms
+
+[2023-10-18T23:03:03.126Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:03:45.288Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:07:36.958Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:07:44.558Z] : [success]: Bot started
+
+[2023-10-18T23:07:44.559Z] : [info]: Robot start
+
+[2023-10-18T23:08:20.016Z] : [success]: Bot finished successfully, total execution time: 35s 454ms
+
+[2023-10-18T23:08:20.017Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:08:32.099Z] : [success]: Bot started
+
+[2023-10-18T23:08:32.100Z] : [info]: Robot start
+
+[2023-10-18T23:09:13.079Z] : [success]: Bot finished successfully, total execution time: 40s 976ms
+
+[2023-10-18T23:09:13.081Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:09:22.581Z] : [success]: Bot started
+
+[2023-10-18T23:09:22.582Z] : [info]: Robot start
+
+[2023-10-18T23:09:39.532Z] : [error]: Script Stopped.
+
+[2023-10-18T23:09:40.782Z] : [info]: Total execution time: 16s 948ms
+
+[2023-10-18T23:09:40.783Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:09:50.675Z] : [success]: Bot started
+
+[2023-10-18T23:09:50.676Z] : [info]: Robot start
+
+[2023-10-18T23:10:34.246Z] : [info]: {}
+
+[2023-10-18T23:10:34.759Z] : [success]: Bot finished successfully, total execution time: 44s 79ms
+
+[2023-10-18T23:10:34.761Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:12:45.780Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:13:14.723Z] : [success]: Bot started
+
+[2023-10-18T23:13:14.724Z] : [info]: Robot start
+
+[2023-10-18T23:13:45.855Z] : [info]: message_folio.split is not a function
+
+[2023-10-18T23:13:46.414Z] : [success]: Bot finished successfully, total execution time: 31s 686ms
+
+[2023-10-18T23:13:46.417Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:14:09.780Z] : [success]: Bot started
+
+[2023-10-18T23:14:09.781Z] : [info]: Robot start
+
+[2023-10-18T23:14:37.233Z] : [info]: message_folio.split is not a function
+
+[2023-10-18T23:14:37.515Z] : [success]: Bot finished successfully, total execution time: 27s 728ms
+
+[2023-10-18T23:14:37.516Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:15:37.673Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:15:46.926Z] : [success]: Bot started
+
+[2023-10-18T23:15:46.926Z] : [info]: Robot start
+
+[2023-10-18T23:16:38.817Z] : [info]: 
+
+[2023-10-18T23:16:39.031Z] : [success]: Bot finished successfully, total execution time: 52s 101ms
+
+[2023-10-18T23:16:39.032Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:17:14.115Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:17:41.152Z] : [success]: Bot started
+
+[2023-10-18T23:17:41.153Z] : [info]: Robot start
+
+[2023-10-18T23:18:11.870Z] : [info]: {"nombre":"Duran Marquez Breiner Alexander","uso":"Honorarios médicos, dentales y gastos hospitalarios.","tipo":"Impuestos traslados","sexo":"Femenino","fecha":"2023/06/08","teléfono":"04145818721","rfc":"ALE 1234","régimen":"Enajenación de bienes","código":"21100","email":"[brayanelcrack20@gmail.com](brayanelcrack20@gmail.com)"}
+
+[2023-10-18T23:18:12.845Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-18T23:18:12.918Z] : [success]: Bot finished successfully, total execution time: 31s 761ms
+
+[2023-10-18T23:18:12.919Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:23:41.744Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:23:41.812Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:23:42.215Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:23:42.215Z] : [success]: Bot started
+
+[2023-10-18T23:23:42.220Z] : [info]: Robot start
+
+[2023-10-18T23:24:17.435Z] : [info]: {"nombre":"Duran Marquez Breiner Alexander","uso":"Honorarios médicos, dentales y gastos hospitalarios.","tipo":"Impuestos traslados","sexo":"Femenino","fecha":"2023/06/08","teléfono":"04145818721","rfc":"ALE 1234","régimen":"Enajenación de bienes","código":"21100","email":"[brayanelcrack20@gmail.com](brayanelcrack20@gmail.com)"}
+
+[2023-10-18T23:24:17.662Z] : [success]: Bot finished successfully, total execution time: 35s 439ms
+
+[2023-10-18T23:24:17.665Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:24:35.269Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:24:47.870Z] : [success]: Bot started
+
+[2023-10-18T23:24:47.871Z] : [info]: Robot start
+
+[2023-10-18T23:24:58.135Z] : [warn]: There is a small amount of free memory (RAM) left, 90.56% of RAM is being used (7192 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-18T23:25:32.383Z] : [info]: {"nombre":"Duran Marquez Breiner Alexander","uso":"Honorarios médicos, dentales y gastos hospitalarios.","tipo":"Impuestos traslados","sexo":"Femenino","fecha":"2023/06/08","teléfono":"04145818721","rfc":"ALE 1234","régimen":"Enajenación de bienes","código":"21100","email":"[brayanelcrack20@gmail.com](brayanelcrack20@gmail.com)"}
+
+[2023-10-18T23:25:33.076Z] : [success]: Bot finished successfully, total execution time: 45s 197ms
+
+[2023-10-18T23:25:33.076Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:28:51.294Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:28:51.372Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:28:51.784Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:28:51.785Z] : [success]: Bot started
+
+[2023-10-18T23:28:51.785Z] : [info]: Robot start
+
+[2023-10-18T23:29:35.670Z] : [info]: F
+
+[2023-10-18T23:29:35.921Z] : [success]: Bot finished successfully, total execution time: 44s 132ms
+
+[2023-10-18T23:29:35.923Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:32:53.843Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:33:06.444Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:33:06.445Z] : [success]: Bot started
+
+[2023-10-18T23:33:06.445Z] : [info]: Robot start
+
+[2023-10-18T23:33:55.775Z] : [info]: undefined
+
+[2023-10-18T23:33:56.228Z] : [success]: Bot finished successfully, total execution time: 49s 780ms
+
+[2023-10-18T23:33:56.229Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:35:19.248Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:35:19.318Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:35:19.775Z] : [success]: Bot started
+
+[2023-10-18T23:35:19.776Z] : [info]: Robot start
+
+[2023-10-18T23:36:14.607Z] : [info]: 2023/06/08
+
+[2023-10-18T23:36:14.978Z] : [success]: Bot finished successfully, total execution time: 55s 196ms
+
+[2023-10-18T23:36:14.979Z] : [info]: ---------------------------------------------
+
+[2023-10-18T23:49:51.218Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:49:51.299Z] : [success]: Robot saved successfully
+
+[2023-10-18T23:49:51.740Z] : [success]: Bot started
+
+[2023-10-18T23:49:51.741Z] : [info]: Robot start
+
+[2023-10-18T23:50:44.713Z] : [success]: Bot finished successfully, total execution time: 52s 969ms
+
+[2023-10-18T23:50:44.715Z] : [info]: ---------------------------------------------
+
+[2023-10-19T00:01:17.438Z] : [success]: Robot saved successfully
+
+[2023-10-19T00:01:24.382Z] : [success]: Bot started
+
+[2023-10-19T00:01:24.383Z] : [info]: Robot start
+
+[2023-10-19T00:02:13.878Z] : [success]: Bot finished successfully, total execution time: 49s 491ms
+
+[2023-10-19T00:02:13.880Z] : [info]: ---------------------------------------------
+
+[2023-10-19T00:07:30.932Z] : [success]: Robot saved successfully
+
+[2023-10-19T00:07:31.003Z] : [success]: Robot saved successfully
+
+[2023-10-19T00:07:31.539Z] : [success]: Bot started
+
+[2023-10-19T00:07:31.539Z] : [info]: Robot start
+
+[2023-10-19T00:08:16.028Z] : [success]: Bot finished successfully, total execution time: 44s 485ms
+
+[2023-10-19T00:08:16.030Z] : [info]: ---------------------------------------------
+
+[2023-10-19T00:08:22.546Z] : [success]: Bot started
+
+[2023-10-19T00:08:22.547Z] : [info]: Robot start
+
+[2023-10-19T00:09:10.854Z] : [success]: Bot finished successfully, total execution time: 48s 305ms
+
+[2023-10-19T00:09:10.855Z] : [info]: ---------------------------------------------
+
+[2023-10-19T00:11:44.303Z] : [success]: Robot saved successfully
+
+[2023-10-19T00:11:44.379Z] : [success]: Robot saved successfully
+
+[2023-10-19T00:11:44.794Z] : [success]: Bot started
+
+[2023-10-19T00:11:44.795Z] : [info]: Robot start
+
+[2023-10-19T00:12:28.330Z] : [success]: Bot finished successfully, total execution time: 43s 533ms
+
+[2023-10-19T00:12:28.332Z] : [info]: ---------------------------------------------
+
+[2023-10-19T00:12:40.404Z] : [success]: Bot started
+
+[2023-10-19T00:12:40.405Z] : [info]: Robot start
+
+[2023-10-19T00:13:26.226Z] : [success]: Bot finished successfully, total execution time: 45s 818ms
+
+[2023-10-19T00:13:26.227Z] : [info]: ---------------------------------------------
+
+[2023-10-19T00:59:12.398Z] : [info]: Internet connection // error
+
+[2023-10-19T00:59:32.638Z] : [success]: Connection to our licenses server is restored
+

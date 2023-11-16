@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/14/2023, 11:56:32 PM
+  ==========================================
+  
+
+[2023-10-15T04:59:42.274Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:43.383Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:44.057Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:46.383Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:47.027Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:47.404Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:47.605Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:48.565Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T04:59:55.870Z] : [error]: Cannot read properties of undefined (reading 'deactivated')
+
+[2023-10-15T05:00:09.520Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:02:47.601Z] : [success]: Robot saved successfully
+
+[2023-10-15T05:03:18.388Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-15T05:03:18.390Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-15T05:03:18.391Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-15T05:03:18.392Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-15T05:03:18.414Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-15T05:03:18.415Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-15T05:03:18.418Z] : [error]: Cannot read properties of null (reading 'type')
+

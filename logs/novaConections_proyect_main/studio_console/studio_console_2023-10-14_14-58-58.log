@@ -1,0 +1,229 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/14/2023, 2:59:16 PM
+  ==========================================
+  
+
+[2023-10-14T19:59:22.958Z] : [info]: ---------------------------------------------
+
+[2023-10-14T19:59:22.959Z] : [success]: Bot started
+
+[2023-10-14T19:59:22.961Z] : [info]: Robot start
+
+[2023-10-14T19:59:45.966Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T19:59:46.370Z] : [info]: Total execution time: 23s 5ms
+
+[2023-10-14T19:59:46.371Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:00:15.860Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:00:16.067Z] : [success]: Bot started
+
+[2023-10-14T20:00:16.068Z] : [info]: Robot start
+
+[2023-10-14T20:00:45.488Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T20:00:46.315Z] : [info]: Total execution time: 29s 420ms
+
+[2023-10-14T20:00:46.316Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:00:59.649Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:00:59.650Z] : [success]: Bot started
+
+[2023-10-14T20:00:59.651Z] : [info]: Robot start
+
+[2023-10-14T20:01:40.337Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T20:01:40.642Z] : [info]: Total execution time: 40s 686ms
+
+[2023-10-14T20:01:40.643Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:02:05.796Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:02:06.147Z] : [success]: Bot started
+
+[2023-10-14T20:02:06.148Z] : [info]: Robot start
+
+[2023-10-14T20:02:49.246Z] : [info]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T20:02:50.107Z] : [success]: Bot finished successfully, total execution time: 43s 955ms
+
+[2023-10-14T20:02:50.109Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:07:15.245Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:07:15.425Z] : [success]: Bot started
+
+[2023-10-14T20:07:15.426Z] : [info]: Robot start
+
+[2023-10-14T20:07:56.611Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T20:07:57.023Z] : [info]: Total execution time: 41s 184ms
+
+[2023-10-14T20:07:57.024Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:09:11.638Z] : [success]: Bot started
+
+[2023-10-14T20:09:11.639Z] : [info]: Robot start
+
+[2023-10-14T20:09:47.774Z] : [info]: Selectors: Selector is empty
+
+[2023-10-14T20:09:48.290Z] : [success]: Bot finished successfully, total execution time: 36s 646ms
+
+[2023-10-14T20:09:48.293Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:10:47.737Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:10:48.032Z] : [success]: Bot started
+
+[2023-10-14T20:10:48.033Z] : [info]: Robot start
+
+[2023-10-14T20:11:24.191Z] : [info]: 
+
+[2023-10-14T20:11:24.653Z] : [success]: Bot finished successfully, total execution time: 36s 618ms
+
+[2023-10-14T20:11:24.654Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:13:54.858Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:13:55.097Z] : [success]: Bot started
+
+[2023-10-14T20:13:55.097Z] : [info]: Robot start
+
+[2023-10-14T20:14:38.876Z] : [info]: undefined
+
+[2023-10-14T20:14:39.231Z] : [success]: Bot finished successfully, total execution time: 44s 131ms
+
+[2023-10-14T20:14:39.232Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:15:35.055Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:15:35.075Z] : [error]: Activity parameters required: Get element value
+
+[2023-10-14T20:15:35.565Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:16:15.438Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:16:15.722Z] : [success]: Bot started
+
+[2023-10-14T20:16:15.723Z] : [info]: Robot start
+
+[2023-10-14T20:16:57.202Z] : [success]: Bot finished successfully, total execution time: 41s 476ms
+
+[2023-10-14T20:16:57.204Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:17:32.358Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:17:32.592Z] : [success]: Bot started
+
+[2023-10-14T20:17:32.593Z] : [info]: Robot start
+
+[2023-10-14T20:18:07.212Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T20:18:07.792Z] : [info]: Total execution time: 34s 619ms
+
+[2023-10-14T20:18:07.794Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:18:20.877Z] : [info]: Internet connection // error
+
+[2023-10-14T20:18:21.041Z] : [success]: Bot started
+
+[2023-10-14T20:18:21.042Z] : [info]: Robot start
+
+[2023-10-14T20:19:08.856Z] : [error]: web_element_value_typeOfPay is not defined
+
+[2023-10-14T20:19:09.285Z] : [info]: Total execution time: 47s 813ms
+
+[2023-10-14T20:19:09.285Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:22:15.120Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-14T20:22:15.194Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:22:15.439Z] : [success]: Bot started
+
+[2023-10-14T20:22:15.439Z] : [info]: Robot start
+
+[2023-10-14T20:22:52.267Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-14T20:22:52.666Z] : [info]: Total execution time: 36s 827ms
+
+[2023-10-14T20:22:52.667Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:23:04.453Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:23:11.014Z] : [success]: Bot started
+
+[2023-10-14T20:23:11.014Z] : [info]: Robot start
+
+[2023-10-14T20:23:49.812Z] : [error]: Unexpected token ';'
+
+[2023-10-14T20:23:50.324Z] : [info]: Total execution time: 38s 797ms
+
+[2023-10-14T20:23:50.325Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:24:33.405Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:24:33.651Z] : [success]: Bot started
+
+[2023-10-14T20:24:33.652Z] : [info]: Robot start
+
+[2023-10-14T20:25:12.723Z] : [info]: 28 Tarjeta de débito
+
+[2023-10-14T20:25:13.345Z] : [success]: Bot finished successfully, total execution time: 39s 688ms
+
+[2023-10-14T20:25:13.347Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:27:43.125Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:27:43.344Z] : [success]: Bot started
+
+[2023-10-14T20:27:43.345Z] : [info]: Robot start
+
+[2023-10-14T20:28:27.818Z] : [success]: Bot finished successfully, total execution time: 44s 470ms
+
+[2023-10-14T20:28:27.820Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:28:50.807Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:29:03.583Z] : [success]: Bot started
+
+[2023-10-14T20:29:03.584Z] : [info]: Robot start
+
+[2023-10-14T20:29:39.216Z] : [error]: web_element_value_typeOfPay is not defined
+
+[2023-10-14T20:29:39.654Z] : [info]: Total execution time: 35s 629ms
+
+[2023-10-14T20:29:39.655Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:30:26.862Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:30:27.186Z] : [success]: Bot started
+
+[2023-10-14T20:30:27.186Z] : [info]: Robot start
+
+[2023-10-14T20:31:21.944Z] : [success]: Bot finished successfully, total execution time: 54s 754ms
+
+[2023-10-14T20:31:21.947Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:31:42.773Z] : [success]: Robot saved successfully
+
+[2023-10-14T20:31:43.013Z] : [success]: Bot started
+
+[2023-10-14T20:31:43.014Z] : [info]: Robot start
+
+[2023-10-14T20:32:25.857Z] : [success]: Bot finished successfully, total execution time: 42s 840ms
+
+[2023-10-14T20:32:25.858Z] : [info]: ---------------------------------------------
+
+[2023-10-14T20:50:42.777Z] : [success]: Robot saved successfully
+
+[2023-10-15T04:48:28.579Z] : [info]: Internet connection // error
+
+[2023-10-15T04:48:31.696Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-15T05:00:12.243Z] : [success]: Robot saved successfully
+

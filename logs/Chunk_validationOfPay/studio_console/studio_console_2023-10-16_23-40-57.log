@@ -1,0 +1,40 @@
+[2023-10-17T04:43:12.352Z] : [success]: Robot saved successfully
+
+[2023-10-17T04:44:07.999Z] : [success]: Robot saved successfully
+
+[2023-10-17T04:44:59.644Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T04:45:00.282Z] : [info]: Total execution time: 44s 657ms
+
+[2023-10-17T04:45:00.283Z] : [info]: ---------------------------------------------
+
+[2023-10-17T04:46:03.675Z] : [success]: Robot saved successfully
+
+[2023-10-17T04:46:03.871Z] : [success]: Bot started
+
+[2023-10-17T04:46:03.872Z] : [info]: Robot start
+
+[2023-10-17T04:46:04.770Z] : [info]: message_folio is not defined
+
+[2023-10-17T04:46:06.226Z] : [success]: Bot finished successfully, total execution time: 2s 352ms
+
+[2023-10-17T04:46:06.227Z] : [info]: ---------------------------------------------
+
+[2023-10-17T04:50:10.200Z] : [success]: Robot saved successfully
+
+[2023-10-17T04:50:57.684Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T04:50:58.100Z] : [info]: Total execution time: 36s 527ms
+
+[2023-10-17T04:50:58.100Z] : [info]: ---------------------------------------------
+
+[2023-10-17T04:53:05.201Z] : [success]: Robot saved successfully
+
+[2023-10-17T04:55:57.646Z] : [error]: Selectors: Nothing found
+
+[2023-10-17T04:55:58.061Z] : [info]: Total execution time: 38s 743ms
+
+[2023-10-17T04:55:58.062Z] : [info]: ---------------------------------------------
+
+[2023-10-17T05:00:34.911Z] : [success]: Robot saved successfully
+

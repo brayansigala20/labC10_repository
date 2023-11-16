@@ -1,0 +1,169 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 1:49:35 AM
+  ==========================================
+  
+
+[2023-10-17T06:55:52.081Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:55:52.151Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:55:52.352Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:55:52.353Z] : [success]: Bot started
+
+[2023-10-17T06:55:52.354Z] : [info]: Robot start
+
+[2023-10-17T06:57:45.424Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:57:57.617Z] : [success]: Bot started
+
+[2023-10-17T06:57:57.617Z] : [info]: Robot start
+
+[2023-10-17T07:00:19.227Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:00:19.287Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:00:19.419Z] : [success]: Bot started
+
+[2023-10-17T07:00:19.420Z] : [info]: Robot start
+
+[2023-10-17T07:01:03.296Z] : [success]: Bot finished successfully, total execution time: 43s 873ms
+
+[2023-10-17T07:01:03.297Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:04:44.684Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:04:44.732Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:04:44.898Z] : [success]: Bot started
+
+[2023-10-17T07:04:44.899Z] : [info]: Robot start
+
+[2023-10-17T07:05:36.413Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:05:41.150Z] : [success]: Bot started
+
+[2023-10-17T07:05:41.151Z] : [info]: Robot start
+
+[2023-10-17T07:06:22.936Z] : [success]: Bot finished successfully, total execution time: 41s 781ms
+
+[2023-10-17T07:06:22.937Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:11:38.103Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:11:38.149Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:11:38.430Z] : [success]: Bot started
+
+[2023-10-17T07:11:38.431Z] : [info]: Robot start
+
+[2023-10-17T07:12:01.103Z] : [success]: Bot finished successfully, total execution time: 22s 669ms
+
+[2023-10-17T07:12:01.104Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:12:52.173Z] : [success]: Bot started
+
+[2023-10-17T07:12:52.174Z] : [info]: Robot start
+
+[2023-10-17T07:13:12.573Z] : [success]: Bot finished successfully, total execution time: 20s 394ms
+
+[2023-10-17T07:13:12.574Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:14:27.337Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:14:27.458Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:14:27.563Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:14:27.908Z] : [success]: Bot started
+
+[2023-10-17T07:14:27.911Z] : [info]: Robot start
+
+[2023-10-17T07:15:17.522Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T07:15:17.589Z] : [success]: Bot finished successfully, total execution time: 49s 676ms
+
+[2023-10-17T07:15:17.590Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:19:24.496Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:19:39.134Z] : [success]: Bot started
+
+[2023-10-17T07:19:39.134Z] : [info]: Robot start
+
+[2023-10-17T07:20:09.718Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T07:20:09.771Z] : [success]: Bot finished successfully, total execution time: 30s 634ms
+
+[2023-10-17T07:20:09.773Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:25:33.585Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:25:40.696Z] : [success]: Bot started
+
+[2023-10-17T07:25:40.697Z] : [info]: Robot start
+
+[2023-10-17T07:26:13.295Z] : [success]: Bot finished successfully, total execution time: 32s 592ms
+
+[2023-10-17T07:26:13.297Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:31:30.713Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:31:36.151Z] : [success]: Bot started
+
+[2023-10-17T07:31:36.152Z] : [info]: Robot start
+
+[2023-10-17T07:32:07.437Z] : [info]: null
+
+[2023-10-17T07:32:07.810Z] : [success]: Bot finished successfully, total execution time: 31s 654ms
+
+[2023-10-17T07:32:07.812Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:33:26.453Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:33:26.733Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:33:26.734Z] : [success]: Bot started
+
+[2023-10-17T07:33:26.735Z] : [info]: Robot start
+
+[2023-10-17T07:33:55.737Z] : [info]: MORA AGUILAR DANIELA (Femenino - 1989-04-20)
+
+[2023-10-17T07:33:56.320Z] : [success]: Bot finished successfully, total execution time: 29s 582ms
+
+[2023-10-17T07:33:56.321Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:36:06.962Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:37:11.390Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:44:25.981Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:44:26.031Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:44:26.339Z] : [success]: Bot started
+
+[2023-10-17T07:44:26.340Z] : [info]: Robot start
+
+[2023-10-17T07:44:57.697Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T07:44:57.753Z] : [success]: Bot finished successfully, total execution time: 31s 411ms
+
+[2023-10-17T07:44:57.754Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:52:45.986Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:52:49.049Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T07:52:49.050Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T07:52:49.051Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T07:52:49.052Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T07:52:49.053Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T07:52:49.064Z] : [error]: Cannot read properties of null (reading 'type')
+

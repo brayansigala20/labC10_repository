@@ -1,0 +1,59 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 1:54:13 AM
+  ==========================================
+  
+
+[2023-10-17T06:55:44.384Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:56:26.746Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T06:56:27.111Z] : [info]: Total execution time: 34s 392ms
+
+[2023-10-17T06:56:27.116Z] : [info]: ---------------------------------------------
+
+[2023-10-17T06:56:33.568Z] : [success]: Robot saved successfully
+
+[2023-10-17T06:58:35.253Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-10-17T06:58:35.486Z] : [info]: Total execution time: 37s 636ms
+
+[2023-10-17T06:58:35.486Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:00:08.799Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:04:36.598Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:05:27.514Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T07:05:27.780Z] : [info]: Total execution time: 42s 614ms
+
+[2023-10-17T07:05:27.781Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:05:34.491Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:11:31.070Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:16:14.612Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 2:22:09 AM
+  ==========================================
+  
+
+[2023-10-17T07:23:03.015Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:35:03.662Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 2:37:02 AM
+  ==========================================
+  
+
+[2023-10-17T07:37:05.609Z] : [success]: Robot saved successfully
+

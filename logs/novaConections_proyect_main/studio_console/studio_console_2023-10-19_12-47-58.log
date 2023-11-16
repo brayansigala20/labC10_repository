@@ -1,0 +1,79 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/19/2023, 12:48:16 PM
+  ==========================================
+  
+
+[2023-10-19T17:48:20.742Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:48:20.743Z] : [success]: Bot started
+
+[2023-10-19T17:48:20.743Z] : [info]: Robot start
+
+[2023-10-19T17:48:55.102Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-19T17:48:55.848Z] : [info]: Total execution time: 34s 359ms
+
+[2023-10-19T17:48:55.850Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:49:06.411Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:49:35.782Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:49:41.069Z] : [success]: Bot started
+
+[2023-10-19T17:49:41.069Z] : [info]: Robot start
+
+[2023-10-19T17:50:05.440Z] : [info]: message_folio is not defined
+
+[2023-10-19T17:50:05.596Z] : [success]: Bot finished successfully, total execution time: 24s 523ms
+
+[2023-10-19T17:50:05.599Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:51:01.147Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:51:21.936Z] : [success]: Bot started
+
+[2023-10-19T17:51:21.937Z] : [info]: Robot start
+
+[2023-10-19T17:52:30.185Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-19T17:52:30.274Z] : [error]: Script stopped.
+
+[2023-10-19T17:52:30.662Z] : [info]: Total execution time: 1m 8s 336ms
+
+[2023-10-19T17:52:30.662Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:54:42.280Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:55:56.120Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:56:11.843Z] : [success]: Robot saved successfully
+
+[2023-10-19T17:56:12.238Z] : [success]: Bot started
+
+[2023-10-19T17:56:12.239Z] : [info]: Robot start
+
+[2023-10-19T17:57:37.111Z] : [error]: Script Stopped.
+
+[2023-10-19T17:57:37.745Z] : [info]: Total execution time: 1m 24s 871ms
+
+[2023-10-19T17:57:37.746Z] : [info]: ---------------------------------------------
+
+[2023-10-19T17:58:56.319Z] : [success]: Robot saved successfully
+
+[2023-10-19T18:31:04.894Z] : [success]: Robot saved successfully
+
+[2023-10-19T18:31:06.660Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T18:31:06.661Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T18:31:06.662Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T18:31:06.663Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T18:31:06.673Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-19T18:31:06.678Z] : [error]: Cannot read properties of null (reading 'type')
+

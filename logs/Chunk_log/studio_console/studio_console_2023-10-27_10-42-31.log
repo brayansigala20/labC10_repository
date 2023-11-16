@@ -1,0 +1,17 @@
+[2023-10-27T17:23:33.701Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\braya\AppData\Local\Google\Chrome\User Data\OptimizationGuidePredictionModels'
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/27/2023, 12:23:34 PM
+  ==========================================
+  
+
+[2023-10-27T17:23:34.738Z] : [info]: Total execution time: 18s 9ms
+
+[2023-10-27T17:23:34.739Z] : [info]: ---------------------------------------------
+
+[2023-10-27T17:23:39.167Z] : [success]: Robot saved successfully
+
+[2023-10-27T17:26:45.285Z] : [success]: Robot saved successfully
+

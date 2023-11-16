@@ -1,0 +1,1524 @@
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 2:53:55 AM
+  ==========================================
+  
+
+[2023-10-17T07:57:48.360Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:57:48.413Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:57:48.649Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:57:48.649Z] : [success]: Bot started
+
+[2023-10-17T07:57:48.650Z] : [info]: Robot start
+
+[2023-10-17T07:58:08.729Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:58:15.467Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:58:15.468Z] : [success]: Bot started
+
+[2023-10-17T07:58:15.468Z] : [info]: Robot start
+
+[2023-10-17T07:58:35.844Z] : [info]: message_folio is not defined
+
+[2023-10-17T07:58:36.673Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T07:58:36.842Z] : [success]: Bot finished successfully, total execution time: 21s 369ms
+
+[2023-10-17T07:58:36.843Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:58:46.622Z] : [success]: Robot saved successfully
+
+[2023-10-17T07:58:57.885Z] : [success]: Bot started
+
+[2023-10-17T07:58:57.886Z] : [info]: Robot start
+
+[2023-10-17T07:59:18.293Z] : [info]: message_folio is not defined
+
+[2023-10-17T07:59:18.329Z] : [success]: Bot finished successfully, total execution time: 20s 439ms
+
+[2023-10-17T07:59:18.331Z] : [info]: ---------------------------------------------
+
+[2023-10-17T07:59:52.974Z] : [success]: Bot started
+
+[2023-10-17T07:59:52.975Z] : [info]: Robot start
+
+[2023-10-17T08:00:23.712Z] : [success]: Bot finished successfully, total execution time: 30s 733ms
+
+[2023-10-17T08:00:23.714Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:08:19.543Z] : [success]: Robot saved successfully
+
+[2023-10-17T08:08:19.596Z] : [success]: Robot saved successfully
+
+[2023-10-17T08:08:19.802Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:08:19.803Z] : [success]: Bot started
+
+[2023-10-17T08:08:19.803Z] : [info]: Robot start
+
+[2023-10-17T08:08:40.523Z] : [info]: message_folio is not defined
+
+[2023-10-17T08:08:40.944Z] : [success]: Bot finished successfully, total execution time: 21s 138ms
+
+[2023-10-17T08:08:40.946Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:09:53.048Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:09:53.049Z] : [success]: Bot started
+
+[2023-10-17T08:09:53.050Z] : [info]: Robot start
+
+[2023-10-17T08:10:24.720Z] : [success]: Bot finished successfully, total execution time: 31s 665ms
+
+[2023-10-17T08:10:24.722Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:18:48.963Z] : [success]: Robot saved successfully
+
+[2023-10-17T08:18:58.840Z] : [success]: Bot started
+
+[2023-10-17T08:18:58.841Z] : [info]: Robot start
+
+[2023-10-17T08:19:19.765Z] : [info]: message_folio is not defined
+
+[2023-10-17T08:19:20.185Z] : [success]: Bot finished successfully, total execution time: 21s 342ms
+
+[2023-10-17T08:19:20.186Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:19:43.413Z] : [success]: Bot started
+
+[2023-10-17T08:19:43.414Z] : [info]: Robot start
+
+[2023-10-17T08:20:16.762Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T08:20:17.057Z] : [info]: Total execution time: 33s 348ms
+
+[2023-10-17T08:20:17.058Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:20:46.148Z] : [success]: Robot saved successfully
+
+[2023-10-17T08:20:46.527Z] : [success]: Bot started
+
+[2023-10-17T08:20:46.528Z] : [info]: Robot start
+
+[2023-10-17T08:21:30.321Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T08:21:30.677Z] : [info]: Total execution time: 43s 793ms
+
+[2023-10-17T08:21:30.679Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:22:16.293Z] : [success]: Robot saved successfully
+
+[2023-10-17T08:22:21.288Z] : [success]: Bot started
+
+[2023-10-17T08:22:21.288Z] : [info]: Robot start
+
+[2023-10-17T08:22:41.982Z] : [info]: message_folio is not defined
+
+[2023-10-17T08:22:42.707Z] : [success]: Bot finished successfully, total execution time: 21s 412ms
+
+[2023-10-17T08:22:42.709Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:23:02.027Z] : [success]: Bot started
+
+[2023-10-17T08:23:02.028Z] : [info]: Robot start
+
+[2023-10-17T08:23:43.781Z] : [success]: Bot finished successfully, total execution time: 41s 748ms
+
+[2023-10-17T08:23:43.782Z] : [info]: ---------------------------------------------
+
+[2023-10-17T08:27:12.959Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:14:09.004Z] : [info]: Internet connection // error
+
+[2023-10-17T15:14:09.015Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T15:14:18.984Z] : [success]: Bot started
+
+[2023-10-17T15:14:18.985Z] : [info]: Robot start
+
+[2023-10-17T15:14:39.491Z] : [error]: Script Stopped.
+
+[2023-10-17T15:14:40.284Z] : [info]: Total execution time: 20s 505ms
+
+[2023-10-17T15:14:40.285Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:15:00.387Z] : [success]: Bot started
+
+[2023-10-17T15:15:00.387Z] : [info]: Robot start
+
+[2023-10-17T15:15:59.862Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:15:59.945Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:16:00.031Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:16:00.613Z] : [success]: Bot started
+
+[2023-10-17T15:16:00.614Z] : [info]: Robot start
+
+[2023-10-17T15:16:38.659Z] : [info]: message_folio is not defined
+
+[2023-10-17T15:16:39.440Z] : [success]: Bot finished successfully, total execution time: 38s 822ms
+
+[2023-10-17T15:16:39.442Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:16:45.793Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:16:51.996Z] : [success]: Bot started
+
+[2023-10-17T15:16:51.996Z] : [info]: Robot start
+
+[2023-10-17T15:17:21.441Z] : [info]: message_folio is not defined
+
+[2023-10-17T15:17:21.567Z] : [success]: Bot finished successfully, total execution time: 29s 567ms
+
+[2023-10-17T15:17:21.569Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:27:56.682Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:28:04.225Z] : [success]: Bot started
+
+[2023-10-17T15:28:04.226Z] : [info]: Robot start
+
+[2023-10-17T15:28:56.029Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T15:28:56.514Z] : [info]: Total execution time: 51s 802ms
+
+[2023-10-17T15:28:56.516Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:47:17.167Z] : [success]: Bot started
+
+[2023-10-17T15:47:17.170Z] : [info]: Robot start
+
+[2023-10-17T15:47:43.237Z] : [info]: message_folio is not defined
+
+[2023-10-17T15:47:43.680Z] : [success]: Bot finished successfully, total execution time: 26s 506ms
+
+[2023-10-17T15:47:43.682Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:49:34.504Z] : [success]: Bot started
+
+[2023-10-17T15:49:34.505Z] : [info]: Robot start
+
+[2023-10-17T15:51:28.643Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:51:28.731Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:51:28.824Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:51:29.307Z] : [success]: Bot started
+
+[2023-10-17T15:51:29.308Z] : [info]: Robot start
+
+[2023-10-17T15:52:10.186Z] : [info]: message_folio is not defined
+
+[2023-10-17T15:52:10.813Z] : [success]: Bot finished successfully, total execution time: 41s 502ms
+
+[2023-10-17T15:52:10.814Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:54:38.646Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:54:38.727Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:54:38.807Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:54:39.296Z] : [success]: Bot started
+
+[2023-10-17T15:54:39.297Z] : [info]: Robot start
+
+[2023-10-17T15:55:37.346Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T15:55:37.719Z] : [info]: Total execution time: 58s 49ms
+
+[2023-10-17T15:55:37.720Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:56:17.618Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:56:17.708Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:56:17.787Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:56:18.408Z] : [success]: Bot started
+
+[2023-10-17T15:56:18.409Z] : [info]: Robot start
+
+[2023-10-17T15:57:02.284Z] : [info]: ORDEN 230705030061 Pagado
+
+[2023-10-17T15:57:05.638Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T15:57:06.170Z] : [info]: Total execution time: 47s 228ms
+
+[2023-10-17T15:57:06.171Z] : [info]: ---------------------------------------------
+
+[2023-10-17T15:57:51.785Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:57:51.880Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:57:51.971Z] : [success]: Robot saved successfully
+
+[2023-10-17T15:57:52.495Z] : [success]: Bot started
+
+[2023-10-17T15:57:52.496Z] : [info]: Robot start
+
+[2023-10-17T15:58:55.534Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T15:58:56.042Z] : [info]: Total execution time: 1m 3s 38ms
+
+[2023-10-17T15:58:56.043Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:00:30.987Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:00:31.081Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:00:31.181Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:00:31.950Z] : [success]: Bot started
+
+[2023-10-17T16:00:31.950Z] : [info]: Robot start
+
+[2023-10-17T16:01:28.086Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T16:01:28.498Z] : [info]: Total execution time: 56s 136ms
+
+[2023-10-17T16:01:28.499Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:02:05.000Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:02:12.112Z] : [success]: Bot started
+
+[2023-10-17T16:02:12.113Z] : [info]: Robot start
+
+[2023-10-17T16:03:10.096Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T16:03:10.537Z] : [info]: Total execution time: 57s 983ms
+
+[2023-10-17T16:03:10.539Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:07:03.199Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:07:17.348Z] : [success]: Bot started
+
+[2023-10-17T16:07:17.349Z] : [info]: Robot start
+
+[2023-10-17T16:08:15.313Z] : [success]: Bot finished successfully, total execution time: 57s 959ms
+
+[2023-10-17T16:08:15.314Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:11:13.282Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:11:13.743Z] : [success]: Bot started
+
+[2023-10-17T16:11:13.745Z] : [info]: Robot start
+
+[2023-10-17T16:12:12.990Z] : [success]: Bot finished successfully, total execution time: 59s 240ms
+
+[2023-10-17T16:12:12.992Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:16:57.610Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:17:04.045Z] : [success]: Bot started
+
+[2023-10-17T16:17:04.045Z] : [info]: Robot start
+
+[2023-10-17T16:18:02.120Z] : [success]: Bot finished successfully, total execution time: 58s 72ms
+
+[2023-10-17T16:18:02.121Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:18:42.133Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:19:02.328Z] : [success]: Bot started
+
+[2023-10-17T16:19:02.329Z] : [info]: Robot start
+
+[2023-10-17T16:20:06.399Z] : [success]: Bot finished successfully, total execution time: 1m 4s 67ms
+
+[2023-10-17T16:20:06.400Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:25:46.590Z] : [success]: Bot started
+
+[2023-10-17T16:25:46.591Z] : [info]: Robot start
+
+[2023-10-17T16:26:52.785Z] : [success]: Bot finished successfully, total execution time: 1m 6s 189ms
+
+[2023-10-17T16:26:52.787Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:27:25.019Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:27:25.468Z] : [success]: Bot started
+
+[2023-10-17T16:27:25.468Z] : [info]: Robot start
+
+[2023-10-17T16:27:55.457Z] : [info]: message_folio is not defined
+
+[2023-10-17T16:27:55.732Z] : [success]: Bot finished successfully, total execution time: 30s 260ms
+
+[2023-10-17T16:27:55.734Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:28:42.595Z] : [success]: Bot started
+
+[2023-10-17T16:28:42.595Z] : [info]: Robot start
+
+[2023-10-17T16:28:58.302Z] : [error]: Script Stopped.
+
+[2023-10-17T16:28:58.543Z] : [info]: Total execution time: 15s 706ms
+
+[2023-10-17T16:28:58.543Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:29:13.621Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:29:14.067Z] : [success]: Bot started
+
+[2023-10-17T16:29:14.067Z] : [info]: Robot start
+
+[2023-10-17T16:30:18.495Z] : [success]: Bot finished successfully, total execution time: 1m 4s 424ms
+
+[2023-10-17T16:30:18.497Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:33:21.189Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:33:36.515Z] : [success]: Bot started
+
+[2023-10-17T16:33:36.515Z] : [info]: Robot start
+
+[2023-10-17T16:36:04.936Z] : [error]: Script Stopped.
+
+[2023-10-17T16:36:05.103Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:36:13.241Z] : [success]: Bot started
+
+[2023-10-17T16:36:13.241Z] : [info]: Robot start
+
+[2023-10-17T16:38:04.511Z] : [error]: Script Stopped.
+
+[2023-10-17T16:38:04.665Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:40:04.088Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:40:11.546Z] : [success]: Bot started
+
+[2023-10-17T16:40:11.547Z] : [info]: Robot start
+
+[2023-10-17T16:40:45.821Z] : [info]: message_folio is not defined
+
+[2023-10-17T16:40:46.353Z] : [success]: Bot finished successfully, total execution time: 34s 802ms
+
+[2023-10-17T16:40:46.354Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:41:13.460Z] : [success]: Bot started
+
+[2023-10-17T16:41:13.461Z] : [info]: Robot start
+
+[2023-10-17T16:42:17.626Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T16:42:18.196Z] : [info]: Total execution time: 1m 4s 164ms
+
+[2023-10-17T16:42:18.197Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:46:14.354Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:46:29.176Z] : [success]: Bot started
+
+[2023-10-17T16:46:29.177Z] : [info]: Robot start
+
+[2023-10-17T16:47:29.247Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T16:47:29.732Z] : [info]: Total execution time: 1m 70ms
+
+[2023-10-17T16:47:29.733Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:48:58.633Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:49:06.840Z] : [success]: Bot started
+
+[2023-10-17T16:49:06.841Z] : [info]: Robot start
+
+[2023-10-17T16:50:13.173Z] : [success]: Bot finished successfully, total execution time: 1m 6s 327ms
+
+[2023-10-17T16:50:13.174Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:50:45.524Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:50:49.892Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:50:58.233Z] : [success]: Bot started
+
+[2023-10-17T16:50:58.233Z] : [info]: Robot start
+
+[2023-10-17T16:51:40.051Z] : [success]: Bot finished successfully, total execution time: 41s 815ms
+
+[2023-10-17T16:51:40.052Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:51:51.843Z] : [success]: Bot started
+
+[2023-10-17T16:51:51.843Z] : [info]: Robot start
+
+[2023-10-17T16:52:29.086Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:52:49.479Z] : [success]: Bot started
+
+[2023-10-17T16:52:49.479Z] : [info]: Robot start
+
+[2023-10-17T16:54:15.064Z] : [success]: Bot finished successfully, total execution time: 1m 25s 581ms
+
+[2023-10-17T16:54:15.065Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:54:42.810Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:54:43.295Z] : [success]: Bot started
+
+[2023-10-17T16:54:43.296Z] : [info]: Robot start
+
+[2023-10-17T16:54:52.365Z] : [error]: text is not defined
+
+[2023-10-17T16:54:53.088Z] : [info]: Total execution time: 9s 67ms
+
+[2023-10-17T16:54:53.088Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:55:05.055Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:55:12.406Z] : [success]: Bot started
+
+[2023-10-17T16:55:12.409Z] : [info]: Robot start
+
+[2023-10-17T16:55:25.734Z] : [success]: Bot finished successfully, total execution time: 13s 323ms
+
+[2023-10-17T16:55:25.734Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:55:37.984Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:55:38.396Z] : [success]: Bot started
+
+[2023-10-17T16:55:38.396Z] : [info]: Robot start
+
+[2023-10-17T16:55:53.975Z] : [success]: Bot finished successfully, total execution time: 15s 577ms
+
+[2023-10-17T16:55:53.976Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:56:15.895Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:56:16.342Z] : [success]: Bot started
+
+[2023-10-17T16:56:16.342Z] : [info]: Robot start
+
+[2023-10-17T16:56:34.709Z] : [success]: Bot finished successfully, total execution time: 18s 363ms
+
+[2023-10-17T16:56:34.710Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:56:54.271Z] : [success]: Robot saved successfully
+
+[2023-10-17T16:56:54.738Z] : [success]: Bot started
+
+[2023-10-17T16:56:54.738Z] : [info]: Robot start
+
+[2023-10-17T16:57:10.223Z] : [success]: Bot finished successfully, total execution time: 15s 482ms
+
+[2023-10-17T16:57:10.226Z] : [info]: ---------------------------------------------
+
+[2023-10-17T16:58:35.161Z] : [info]: Internet connection // error
+
+[2023-10-17T17:00:29.959Z] : [success]: Connection to our licenses server is restored
+
+[2023-10-17T17:04:54.260Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:05:02.574Z] : [success]: Bot started
+
+[2023-10-17T17:05:02.575Z] : [info]: Robot start
+
+[2023-10-17T17:05:17.944Z] : [success]: Bot finished successfully, total execution time: 15s 368ms
+
+[2023-10-17T17:05:17.945Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:05:56.329Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:06:05.276Z] : [success]: Bot started
+
+[2023-10-17T17:06:05.276Z] : [info]: Robot start
+
+[2023-10-17T17:06:25.601Z] : [success]: Bot finished successfully, total execution time: 20s 319ms
+
+[2023-10-17T17:06:25.601Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:08:52.195Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:08:52.307Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:08:52.406Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:08:53.188Z] : [success]: Bot started
+
+[2023-10-17T17:08:53.189Z] : [info]: Robot start
+
+[2023-10-17T17:09:13.572Z] : [success]: Bot finished successfully, total execution time: 20s 378ms
+
+[2023-10-17T17:09:13.573Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:10:02.708Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:10:11.374Z] : [success]: Bot started
+
+[2023-10-17T17:10:11.375Z] : [info]: Robot start
+
+[2023-10-17T17:10:21.578Z] : [warn]: There is a small amount of free memory (RAM) left, 91.14% of RAM is being used (7238 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-17T17:10:32.493Z] : [success]: Bot finished successfully, total execution time: 21s 116ms
+
+[2023-10-17T17:10:32.494Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:16:07.148Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:16:07.238Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:16:07.339Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:16:08.308Z] : [success]: Bot started
+
+[2023-10-17T17:16:08.309Z] : [info]: Robot start
+
+[2023-10-17T17:16:31.229Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:16:31.678Z] : [info]: Total execution time: 22s 919ms
+
+[2023-10-17T17:16:31.679Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:16:38.481Z] : [success]: Bot started
+
+[2023-10-17T17:16:38.482Z] : [info]: Robot start
+
+[2023-10-17T17:16:44.714Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:16:45.302Z] : [info]: Total execution time: 6s 232ms
+
+[2023-10-17T17:16:45.303Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:17:03.322Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:17:03.768Z] : [success]: Bot started
+
+[2023-10-17T17:17:03.769Z] : [info]: Robot start
+
+[2023-10-17T17:17:10.316Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:17:10.944Z] : [info]: Total execution time: 6s 547ms
+
+[2023-10-17T17:17:10.944Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:17:43.560Z] : [success]: Bot started
+
+[2023-10-17T17:17:43.561Z] : [info]: Robot start
+
+[2023-10-17T17:17:50.177Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:17:50.783Z] : [info]: Total execution time: 6s 616ms
+
+[2023-10-17T17:17:50.783Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:18:27.597Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:18:27.697Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:18:27.796Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:18:28.817Z] : [success]: Bot started
+
+[2023-10-17T17:18:28.818Z] : [info]: Robot start
+
+[2023-10-17T17:18:49.259Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:18:49.891Z] : [info]: Total execution time: 20s 440ms
+
+[2023-10-17T17:18:49.893Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:19:10.671Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:19:18.440Z] : [success]: Bot started
+
+[2023-10-17T17:19:18.441Z] : [info]: Robot start
+
+[2023-10-17T17:19:25.747Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:19:26.337Z] : [info]: Total execution time: 7s 306ms
+
+[2023-10-17T17:19:26.338Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:20:18.899Z] : [success]: Bot started
+
+[2023-10-17T17:20:18.900Z] : [info]: Robot start
+
+[2023-10-17T17:20:30.407Z] : [success]: Bot finished successfully, total execution time: 11s 503ms
+
+[2023-10-17T17:20:30.408Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:21:30.582Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:21:38.933Z] : [success]: Bot started
+
+[2023-10-17T17:21:38.933Z] : [info]: Robot start
+
+[2023-10-17T17:21:52.288Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T17:21:52.844Z] : [info]: Total execution time: 13s 355ms
+
+[2023-10-17T17:21:52.844Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:24:48.474Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:24:57.583Z] : [success]: Bot started
+
+[2023-10-17T17:24:57.583Z] : [info]: Robot start
+
+[2023-10-17T17:25:06.966Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T17:25:07.611Z] : [info]: Total execution time: 9s 383ms
+
+[2023-10-17T17:25:07.612Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:25:21.728Z] : [success]: Bot started
+
+[2023-10-17T17:25:21.728Z] : [info]: Robot start
+
+[2023-10-17T17:25:27.966Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:25:28.655Z] : [info]: Total execution time: 6s 237ms
+
+[2023-10-17T17:25:28.656Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:26:05.519Z] : [success]: Bot started
+
+[2023-10-17T17:26:05.520Z] : [info]: Robot start
+
+[2023-10-17T17:26:11.828Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:26:12.515Z] : [info]: Total execution time: 6s 308ms
+
+[2023-10-17T17:26:12.516Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:26:50.935Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:27:03.367Z] : [success]: Bot started
+
+[2023-10-17T17:27:03.368Z] : [info]: Robot start
+
+[2023-10-17T17:27:09.637Z] : [error]: ERROR on Runtime.evaluate
+
+[2023-10-17T17:27:10.393Z] : [info]: Total execution time: 6s 269ms
+
+[2023-10-17T17:27:10.394Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:27:49.359Z] : [success]: Bot started
+
+[2023-10-17T17:27:49.359Z] : [info]: Robot start
+
+[2023-10-17T17:28:01.815Z] : [success]: Bot finished successfully, total execution time: 12s 453ms
+
+[2023-10-17T17:28:01.816Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:31:54.699Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:33:04.897Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:33:31.484Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:33:42.395Z] : [success]: Bot started
+
+[2023-10-17T17:33:42.396Z] : [info]: Robot start
+
+[2023-10-17T17:33:52.806Z] : [error]: Script Stopped.
+
+[2023-10-17T17:33:53.485Z] : [info]: Total execution time: 10s 409ms
+
+[2023-10-17T17:33:53.486Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:33:54.982Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:34:26.185Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:34:48.453Z] : [success]: Bot started
+
+[2023-10-17T17:34:48.454Z] : [info]: Robot start
+
+[2023-10-17T17:36:05.047Z] : [success]: Bot finished successfully, total execution time: 1m 16s 589ms
+
+[2023-10-17T17:36:05.048Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:39:28.229Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:40:00.786Z] : [success]: Bot started
+
+[2023-10-17T17:40:00.786Z] : [info]: Robot start
+
+[2023-10-17T17:40:38.666Z] : [success]: Bot finished successfully, total execution time: 37s 876ms
+
+[2023-10-17T17:40:38.668Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:40:47.179Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:40:55.446Z] : [success]: Bot started
+
+[2023-10-17T17:40:55.446Z] : [info]: Robot start
+
+[2023-10-17T17:41:26.957Z] : [info]: message_folio is not defined
+
+[2023-10-17T17:41:27.306Z] : [success]: Bot finished successfully, total execution time: 31s 858ms
+
+[2023-10-17T17:41:27.308Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:41:47.211Z] : [success]: Bot started
+
+[2023-10-17T17:41:47.212Z] : [info]: Robot start
+
+[2023-10-17T17:42:53.768Z] : [success]: Bot finished successfully, total execution time: 1m 6s 553ms
+
+[2023-10-17T17:42:53.770Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:43:52.751Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:44:06.629Z] : [success]: Bot started
+
+[2023-10-17T17:44:06.630Z] : [info]: Robot start
+
+[2023-10-17T17:44:40.514Z] : [success]: Bot finished successfully, total execution time: 33s 882ms
+
+[2023-10-17T17:44:40.515Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:44:46.388Z] : [success]: Bot started
+
+[2023-10-17T17:44:46.389Z] : [info]: Robot start
+
+[2023-10-17T17:45:13.646Z] : [info]: message_folio is not defined
+
+[2023-10-17T17:45:14.056Z] : [success]: Bot finished successfully, total execution time: 27s 662ms
+
+[2023-10-17T17:45:14.056Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:45:42.746Z] : [success]: Bot started
+
+[2023-10-17T17:45:42.747Z] : [info]: Robot start
+
+[2023-10-17T17:46:44.063Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T17:46:44.245Z] : [success]: Bot finished successfully, total execution time: 1m 1s 496ms
+
+[2023-10-17T17:46:44.246Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:55:33.717Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:55:33.817Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:55:33.921Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:55:34.807Z] : [success]: Bot started
+
+[2023-10-17T17:55:34.808Z] : [info]: Robot start
+
+[2023-10-17T17:56:37.087Z] : [success]: Bot finished successfully, total execution time: 1m 2s 276ms
+
+[2023-10-17T17:56:37.090Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:57:32.257Z] : [success]: Robot saved successfully
+
+[2023-10-17T17:57:49.028Z] : [success]: Bot started
+
+[2023-10-17T17:57:49.028Z] : [info]: Robot start
+
+[2023-10-17T17:58:22.886Z] : [success]: Bot finished successfully, total execution time: 33s 855ms
+
+[2023-10-17T17:58:22.888Z] : [info]: ---------------------------------------------
+
+[2023-10-17T17:58:34.922Z] : [success]: Bot started
+
+[2023-10-17T17:58:34.923Z] : [info]: Robot start
+
+[2023-10-17T17:59:33.307Z] : [success]: Bot finished successfully, total execution time: 58s 381ms
+
+[2023-10-17T17:59:33.308Z] : [info]: ---------------------------------------------
+
+[2023-10-17T18:00:29.074Z] : [success]: Robot saved successfully
+
+[2023-10-17T18:00:59.853Z] : [success]: Robot saved successfully
+
+[2023-10-17T18:33:10.640Z] : [success]: Robot saved successfully
+
+[2023-10-17T18:47:30.856Z] : [success]: Bot started
+
+[2023-10-17T18:47:30.857Z] : [info]: Robot start
+
+[2023-10-17T18:49:00.927Z] : [success]: Bot finished successfully, total execution time: 1m 30s 67ms
+
+[2023-10-17T18:49:00.928Z] : [info]: ---------------------------------------------
+
+[2023-10-17T18:49:57.699Z] : [success]: Robot saved successfully
+
+[2023-10-17T18:50:14.577Z] : [success]: Bot started
+
+[2023-10-17T18:50:14.578Z] : [info]: Robot start
+
+[2023-10-17T18:50:42.163Z] : [info]: message_folio is not defined
+
+[2023-10-17T18:50:42.387Z] : [success]: Bot finished successfully, total execution time: 27s 806ms
+
+[2023-10-17T18:50:42.389Z] : [info]: ---------------------------------------------
+
+[2023-10-17T18:50:59.618Z] : [success]: Bot started
+
+[2023-10-17T18:50:59.618Z] : [info]: Robot start
+
+[2023-10-17T18:52:20.439Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T18:52:20.491Z] : [success]: Bot finished successfully, total execution time: 1m 20s 871ms
+
+[2023-10-17T18:52:20.492Z] : [info]: ---------------------------------------------
+
+[2023-10-17T18:52:52.390Z] : [success]: Robot saved successfully
+
+[2023-10-17T18:53:13.711Z] : [success]: Bot started
+
+[2023-10-17T18:53:13.711Z] : [info]: Robot start
+
+[2023-10-17T18:53:47.746Z] : [success]: Bot finished successfully, total execution time: 34s 30ms
+
+[2023-10-17T18:53:47.748Z] : [info]: ---------------------------------------------
+
+[2023-10-17T18:54:31.965Z] : [success]: Bot started
+
+[2023-10-17T18:54:31.966Z] : [info]: Robot start
+
+[2023-10-17T18:55:04.793Z] : [success]: Bot finished successfully, total execution time: 32s 824ms
+
+[2023-10-17T18:55:04.793Z] : [info]: ---------------------------------------------
+
+[2023-10-17T18:55:21.231Z] : [success]: Robot saved successfully
+
+[2023-10-17T18:55:33.588Z] : [success]: Bot started
+
+[2023-10-17T18:55:33.588Z] : [info]: Robot start
+
+[2023-10-17T18:56:51.375Z] : [success]: Bot finished successfully, total execution time: 1m 17s 785ms
+
+[2023-10-17T18:56:51.377Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:00:01.494Z] : [success]: Bot started
+
+[2023-10-17T19:00:01.495Z] : [info]: Robot start
+
+[2023-10-17T19:01:10.066Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T19:01:10.343Z] : [success]: Bot finished successfully, total execution time: 1m 8s 844ms
+
+[2023-10-17T19:01:10.345Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:02:49.685Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:03:01.179Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:04:22.860Z] : [success]: Bot started
+
+[2023-10-17T19:04:22.861Z] : [info]: Robot start
+
+[2023-10-17T19:05:30.612Z] : [success]: Bot finished successfully, total execution time: 1m 7s 748ms
+
+[2023-10-17T19:05:30.613Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:06:53.619Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:07:10.474Z] : [success]: Bot started
+
+[2023-10-17T19:07:10.475Z] : [info]: Robot start
+
+[2023-10-17T19:08:18.036Z] : [success]: Bot finished successfully, total execution time: 1m 7s 559ms
+
+[2023-10-17T19:08:18.037Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:10:46.637Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:11:22.819Z] : [success]: Bot started
+
+[2023-10-17T19:11:22.820Z] : [info]: Robot start
+
+[2023-10-17T19:12:51.861Z] : [error]: Unexpected identifier
+
+[2023-10-17T19:12:53.147Z] : [info]: Total execution time: 1m 29s 39ms
+
+[2023-10-17T19:12:53.147Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:13:27.066Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:13:43.232Z] : [success]: Bot started
+
+[2023-10-17T19:13:43.233Z] : [info]: Robot start
+
+[2023-10-17T19:14:50.693Z] : [error]: CAN_NOT_FIND_TAB
+
+[2023-10-17T19:14:51.704Z] : [info]: Total execution time: 1m 7s 459ms
+
+[2023-10-17T19:14:51.705Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:15:20.935Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:15:37.231Z] : [success]: Bot started
+
+[2023-10-17T19:15:37.232Z] : [info]: Robot start
+
+[2023-10-17T19:15:48.566Z] : [error]: Script Stopped.
+
+[2023-10-17T19:15:49.021Z] : [info]: Total execution time: 11s 333ms
+
+[2023-10-17T19:15:49.022Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:16:45.496Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:16:45.497Z] : [success]: Bot started
+
+[2023-10-17T19:16:45.498Z] : [info]: Robot start
+
+[2023-10-17T19:18:21.208Z] : [success]: Bot finished successfully, total execution time: 1m 35s 706ms
+
+[2023-10-17T19:18:21.210Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:18:45.975Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:19:00.932Z] : [success]: Bot started
+
+[2023-10-17T19:19:00.933Z] : [info]: Robot start
+
+[2023-10-17T19:20:12.129Z] : [success]: Bot finished successfully, total execution time: 1m 11s 193ms
+
+[2023-10-17T19:20:12.130Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:22:21.291Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:22:33.331Z] : [success]: Bot started
+
+[2023-10-17T19:22:33.331Z] : [info]: Robot start
+
+[2023-10-17T19:24:31.513Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:24:31.639Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:24:31.769Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:24:31.917Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:24:33.218Z] : [success]: Bot started
+
+[2023-10-17T19:24:33.218Z] : [info]: Robot start
+
+[2023-10-17T19:26:27.178Z] : [success]: Bot finished successfully, total execution time: 1m 53s 957ms
+
+[2023-10-17T19:26:27.179Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:32:22.357Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:32:50.840Z] : [success]: Bot started
+
+[2023-10-17T19:32:50.841Z] : [info]: Robot start
+
+[2023-10-17T19:34:11.170Z] : [success]: Bot finished successfully, total execution time: 1m 20s 327ms
+
+[2023-10-17T19:34:11.171Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:41:34.114Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:41:34.245Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:41:34.373Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:41:34.500Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:41:35.867Z] : [success]: Bot started
+
+[2023-10-17T19:41:35.868Z] : [info]: Robot start
+
+[2023-10-17T19:43:41.917Z] : [success]: Bot finished successfully, total execution time: 2m 6s 47ms
+
+[2023-10-17T19:43:41.918Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:46:05.603Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:46:30.879Z] : [success]: Bot started
+
+[2023-10-17T19:46:30.880Z] : [info]: Robot start
+
+[2023-10-17T19:47:38.050Z] : [success]: Bot finished successfully, total execution time: 1m 7s 167ms
+
+[2023-10-17T19:47:38.051Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:49:40.094Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:49:46.811Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:50:15.056Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:50:15.614Z] : [success]: Bot started
+
+[2023-10-17T19:50:15.615Z] : [info]: Robot start
+
+[2023-10-17T19:51:24.720Z] : [success]: Bot finished successfully, total execution time: 1m 9s 101ms
+
+[2023-10-17T19:51:24.722Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:51:48.561Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:52:10.657Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:52:34.746Z] : [success]: Bot started
+
+[2023-10-17T19:52:34.747Z] : [info]: Robot start
+
+[2023-10-17T19:53:49.053Z] : [success]: Bot finished successfully, total execution time: 1m 14s 304ms
+
+[2023-10-17T19:53:49.055Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:54:28.662Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:55:28.970Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:55:50.892Z] : [success]: Bot started
+
+[2023-10-17T19:55:50.894Z] : [info]: Robot start
+
+[2023-10-17T19:57:04.112Z] : [success]: Bot finished successfully, total execution time: 1m 13s 215ms
+
+[2023-10-17T19:57:04.113Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:57:57.775Z] : [success]: Robot saved successfully
+
+[2023-10-17T19:58:18.643Z] : [success]: Bot started
+
+[2023-10-17T19:58:18.644Z] : [info]: Robot start
+
+[2023-10-17T19:59:38.615Z] : [info]:  Honorarios médicos, dentales y gastos hospitalarios.
+
+[2023-10-17T19:59:39.017Z] : [success]: Bot finished successfully, total execution time: 1m 20s 371ms
+
+[2023-10-17T19:59:39.018Z] : [info]: ---------------------------------------------
+
+[2023-10-17T19:59:56.242Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:00:13.773Z] : [success]: Bot started
+
+[2023-10-17T20:00:13.773Z] : [info]: Robot start
+
+[2023-10-17T20:01:17.904Z] : [info]: [" ","H","o","n","o","r","a","r","i","o","s"," ","m","é","d","i","c","o","s",","," ","d","e","n","t","a","l","e","s"," ","y"," ","g","a","s","t","o","s"," ","h","o","s","p","i","t","a","l","a","r","i","o","s","."]
+
+[2023-10-17T20:01:18.895Z] : [success]: Bot finished successfully, total execution time: 1m 5s 120ms
+
+[2023-10-17T20:01:18.897Z] : [info]: ---------------------------------------------
+
+[2023-10-17T20:04:18.958Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:04:39.805Z] : [success]: Bot started
+
+[2023-10-17T20:04:39.805Z] : [info]: Robot start
+
+[2023-10-17T20:05:26.688Z] : [success]: Bot finished successfully, total execution time: 46s 881ms
+
+[2023-10-17T20:05:26.689Z] : [info]: ---------------------------------------------
+
+[2023-10-17T20:05:45.371Z] : [success]: Bot started
+
+[2023-10-17T20:05:45.371Z] : [info]: Robot start
+
+[2023-10-17T20:07:07.043Z] : [info]: ["H","o","n","o","r","a","r","i","o","s"," ","m","é","d","i","c","o","s",","," ","d","e","n","t","a","l","e","s"," ","y"," ","g","a","s","t","o","s"," ","h","o","s","p","i","t","a","l","a","r","i","o","s","."]
+
+[2023-10-17T20:07:07.988Z] : [success]: Bot finished successfully, total execution time: 1m 22s 615ms
+
+[2023-10-17T20:07:07.989Z] : [info]: ---------------------------------------------
+
+[2023-10-17T20:07:42.840Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:07:56.644Z] : [info]: ---------------------------------------------
+
+[2023-10-17T20:07:56.645Z] : [success]: Bot started
+
+[2023-10-17T20:07:56.645Z] : [info]: Robot start
+
+[2023-10-17T20:09:09.654Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T20:09:09.975Z] : [success]: Bot finished successfully, total execution time: 1m 13s 326ms
+
+[2023-10-17T20:09:09.976Z] : [info]: ---------------------------------------------
+
+[2023-10-17T20:09:27.262Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:09:36.245Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:09:49.983Z] : [success]: Bot started
+
+[2023-10-17T20:09:49.984Z] : [info]: Robot start
+
+[2023-10-17T20:11:09.334Z] : [success]: Bot finished successfully, total execution time: 1m 19s 345ms
+
+[2023-10-17T20:11:09.336Z] : [info]: ---------------------------------------------
+
+[2023-10-17T20:50:58.174Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:51:21.580Z] : [warn]: There is a small amount of free memory (RAM) left, 90.86% of RAM is being used (7216 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-17T20:53:59.670Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:53:59.823Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:53:59.961Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:54:00.138Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:54:01.993Z] : [success]: Bot started
+
+[2023-10-17T20:54:01.994Z] : [info]: Robot start
+
+[2023-10-17T20:54:29.158Z] : [success]: Bot finished successfully, total execution time: 27s 162ms
+
+[2023-10-17T20:54:29.159Z] : [info]: ---------------------------------------------
+
+[2023-10-17T20:56:00.476Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:56:13.004Z] : [success]: Robot saved successfully
+
+[2023-10-17T20:56:13.782Z] : [success]: Bot started
+
+[2023-10-17T20:56:13.783Z] : [info]: Robot start
+
+[2023-10-17T20:56:28.433Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2023-10-17T20:56:29.349Z] : [info]: Total execution time: 14s 650ms
+
+[2023-10-17T20:56:29.349Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:31:34.637Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:31:43.253Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:31:54.520Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:31:56.436Z] : [success]: Bot started
+
+[2023-10-17T21:31:56.437Z] : [info]: Robot start
+
+[2023-10-17T21:32:06.608Z] : [success]: Bot finished successfully, total execution time: 10s 168ms
+
+[2023-10-17T21:32:06.610Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:33:17.375Z] : [success]: Bot started
+
+[2023-10-17T21:33:17.376Z] : [info]: Robot start
+
+[2023-10-17T21:33:24.622Z] : [success]: Bot finished successfully, total execution time: 7s 245ms
+
+[2023-10-17T21:33:24.623Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:34:42.284Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:34:42.412Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:34:42.544Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:34:42.684Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:34:44.109Z] : [success]: Bot started
+
+[2023-10-17T21:34:44.109Z] : [info]: Robot start
+
+[2023-10-17T21:35:24.527Z] : [success]: Bot finished successfully, total execution time: 40s 416ms
+
+[2023-10-17T21:35:24.528Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:38:42.856Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:38:50.713Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:39:08.686Z] : [success]: Bot started
+
+[2023-10-17T21:39:08.687Z] : [info]: Robot start
+
+[2023-10-17T21:39:48.675Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T21:39:48.797Z] : [success]: Bot finished successfully, total execution time: 40s 107ms
+
+[2023-10-17T21:39:48.797Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:39:56.161Z] : [success]: Bot started
+
+[2023-10-17T21:39:56.163Z] : [info]: Robot start
+
+[2023-10-17T21:40:37.561Z] : [info]: message_folio is not defined
+
+[2023-10-17T21:40:37.934Z] : [success]: Bot finished successfully, total execution time: 41s 766ms
+
+[2023-10-17T21:40:37.935Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:40:52.555Z] : [success]: Bot started
+
+[2023-10-17T21:40:52.556Z] : [info]: Robot start
+
+[2023-10-17T21:42:09.951Z] : [success]: Bot finished successfully, total execution time: 1m 17s 392ms
+
+[2023-10-17T21:42:09.952Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:42:29.837Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:42:30.443Z] : [success]: Bot started
+
+[2023-10-17T21:42:30.443Z] : [info]: Robot start
+
+[2023-10-17T21:42:41.029Z] : [error]: text is not defined
+
+[2023-10-17T21:42:41.995Z] : [info]: Total execution time: 10s 585ms
+
+[2023-10-17T21:42:41.997Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:43:05.136Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:43:06.035Z] : [success]: Bot started
+
+[2023-10-17T21:43:06.036Z] : [info]: Robot start
+
+[2023-10-17T21:43:17.333Z] : [error]: text is not defined
+
+[2023-10-17T21:43:18.214Z] : [info]: Total execution time: 11s 297ms
+
+[2023-10-17T21:43:18.215Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:43:46.347Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:43:46.940Z] : [success]: Bot started
+
+[2023-10-17T21:43:46.940Z] : [info]: Robot start
+
+[2023-10-17T21:43:57.400Z] : [error]: text is not defined
+
+[2023-10-17T21:43:58.236Z] : [info]: Total execution time: 10s 460ms
+
+[2023-10-17T21:43:58.237Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:44:20.367Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:44:20.975Z] : [success]: Bot started
+
+[2023-10-17T21:44:20.976Z] : [info]: Robot start
+
+[2023-10-17T21:44:31.832Z] : [error]: text is not defined
+
+[2023-10-17T21:44:32.562Z] : [info]: Total execution time: 10s 856ms
+
+[2023-10-17T21:44:32.563Z] : [info]: ---------------------------------------------
+
+[2023-10-17T21:52:10.049Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:52:10.179Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:52:10.325Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:52:10.463Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:52:12.135Z] : [success]: Bot started
+
+[2023-10-17T21:52:12.135Z] : [info]: Robot start
+
+[2023-10-17T21:52:55.633Z] : [success]: Bot finished successfully, total execution time: 43s 496ms
+
+[2023-10-17T21:52:55.634Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 10/17/2023, 4:58:57 PM
+  ==========================================
+  
+
+[2023-10-17T21:59:03.796Z] : [success]: Robot saved successfully
+
+[2023-10-17T21:59:04.169Z] : [success]: Bot started
+
+[2023-10-17T21:59:04.170Z] : [info]: Robot start
+
+[2023-10-17T21:59:12.694Z] : [success]: Bot finished successfully, total execution time: 8s 521ms
+
+[2023-10-17T21:59:12.695Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:00:41.751Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:00:42.149Z] : [success]: Bot started
+
+[2023-10-17T22:00:42.150Z] : [info]: Robot start
+
+[2023-10-17T22:00:49.155Z] : [success]: Bot finished successfully, total execution time: 7s 3ms
+
+[2023-10-17T22:00:49.157Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:07:33.646Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:16:54.502Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:16:54.971Z] : [success]: Bot started
+
+[2023-10-17T22:16:54.972Z] : [info]: Robot start
+
+[2023-10-17T22:17:03.679Z] : [success]: Bot finished successfully, total execution time: 8s 704ms
+
+[2023-10-17T22:17:03.680Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:17:18.844Z] : [success]: Bot started
+
+[2023-10-17T22:17:18.845Z] : [info]: Robot start
+
+[2023-10-17T22:17:26.062Z] : [success]: Bot finished successfully, total execution time: 7s 213ms
+
+[2023-10-17T22:17:26.063Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:21:55.865Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:21:56.399Z] : [success]: Bot started
+
+[2023-10-17T22:21:56.400Z] : [info]: Robot start
+
+[2023-10-17T22:22:04.820Z] : [success]: Bot finished successfully, total execution time: 8s 418ms
+
+[2023-10-17T22:22:04.820Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:24:21.594Z] : [warn]: There is a small amount of free memory (RAM) left, 90.62% of RAM is being used (7197 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-17T22:25:42.615Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:25:43.252Z] : [success]: Bot started
+
+[2023-10-17T22:25:43.252Z] : [info]: Robot start
+
+[2023-10-17T22:25:52.398Z] : [success]: Bot finished successfully, total execution time: 9s 144ms
+
+[2023-10-17T22:25:52.399Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:27:21.621Z] : [warn]: There is a small amount of free memory (RAM) left, 90.73% of RAM is being used (7206 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-17T22:30:51.628Z] : [warn]: There is a small amount of free memory (RAM) left, 91.66% of RAM is being used (7280 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-10-17T22:41:35.010Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:41:35.587Z] : [success]: Bot started
+
+[2023-10-17T22:41:35.589Z] : [info]: Robot start
+
+[2023-10-17T22:42:13.982Z] : [success]: Bot finished successfully, total execution time: 38s 389ms
+
+[2023-10-17T22:42:13.984Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:42:23.603Z] : [success]: Bot started
+
+[2023-10-17T22:42:23.604Z] : [info]: Robot start
+
+[2023-10-17T22:42:53.442Z] : [info]: message_folio is not defined
+
+[2023-10-17T22:42:54.237Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T22:42:54.408Z] : [success]: Bot finished successfully, total execution time: 30s 801ms
+
+[2023-10-17T22:42:54.410Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:43:16.829Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:43:24.692Z] : [success]: Bot started
+
+[2023-10-17T22:43:24.694Z] : [info]: Robot start
+
+[2023-10-17T22:44:28.503Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-17T22:44:29.379Z] : [info]: Total execution time: 1m 3s 809ms
+
+[2023-10-17T22:44:29.379Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:44:49.768Z] : [success]: Bot started
+
+[2023-10-17T22:44:49.769Z] : [info]: Robot start
+
+[2023-10-17T22:45:57.755Z] : [success]: Bot finished successfully, total execution time: 1m 7s 983ms
+
+[2023-10-17T22:45:57.756Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:47:33.880Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:47:44.848Z] : [success]: Bot started
+
+[2023-10-17T22:47:44.849Z] : [info]: Robot start
+
+[2023-10-17T22:48:23.622Z] : [success]: Bot finished successfully, total execution time: 38s 769ms
+
+[2023-10-17T22:48:23.623Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:48:28.433Z] : [success]: Bot started
+
+[2023-10-17T22:48:28.435Z] : [info]: Robot start
+
+[2023-10-17T22:49:37.619Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-10-17T22:49:37.769Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-10-17T22:49:38.470Z] : [info]: Total execution time: 1m 9s 334ms
+
+[2023-10-17T22:49:38.471Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:52:50.270Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:53:32.240Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:53:32.241Z] : [success]: Bot started
+
+[2023-10-17T22:53:32.241Z] : [info]: Robot start
+
+[2023-10-17T22:55:14.937Z] : [error]: Script Stopped.
+
+[2023-10-17T22:55:15.094Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:55:35.171Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:55:35.661Z] : [success]: Bot started
+
+[2023-10-17T22:55:35.662Z] : [info]: Robot start
+
+[2023-10-17T22:57:22.888Z] : [error]: Script Stopped.
+
+[2023-10-17T22:57:23.030Z] : [info]: ---------------------------------------------
+
+[2023-10-17T22:57:36.268Z] : [success]: Robot saved successfully
+
+[2023-10-17T22:57:41.631Z] : [success]: Bot started
+
+[2023-10-17T22:57:41.631Z] : [info]: Robot start
+
+[2023-10-17T22:59:19.125Z] : [error]: Script Stopped.
+
+[2023-10-17T22:59:19.478Z] : [info]: ---------------------------------------------
+
+[2023-10-17T23:02:48.300Z] : [success]: Robot saved successfully
+
+[2023-10-17T23:02:48.790Z] : [success]: Bot started
+
+[2023-10-17T23:02:48.791Z] : [info]: Robot start
+
+[2023-10-17T23:04:04.161Z] : [error]: Script Stopped.
+
+[2023-10-17T23:04:04.322Z] : [info]: ---------------------------------------------
+
+[2023-10-17T23:04:05.460Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.463Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.465Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.467Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.469Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.472Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.486Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.491Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.493Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-10-17T23:04:05.495Z] : [error]: Cannot read properties of null (reading 'type')
+
